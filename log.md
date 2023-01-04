@@ -1,3 +1,4 @@
+![100 Days Of Code](https://github.com/rico042002/100-days-of-code/blob/master/img/147af4d9ac474b184ce098743d466e77.png?raw=true)
 # 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 1)
