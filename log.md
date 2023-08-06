@@ -2,7 +2,6 @@
 # 100 Days Of Code - Log
 
 ### Day 1: August 6, 2023
-<iframe src="https://giphy.com/embed/13CSvyHEOwoUM" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reactiongifs-mrw-season-13CSvyHEOwoUM">via GIPHY</a></p>
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
