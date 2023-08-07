@@ -10,7 +10,15 @@
 
 **Link to work:** [Modern HTML & CSS From The Beginning (Including SASS)](https://www.udemy.com/course/modern-html-css-from-the-beginning)
 
-### Day 2: August 7, 2023 EXAMPLE
+### Day 2: August 7, 2023 
+
+**Today's Progress**: Contiued project site with the course, learned more about flexbox and used CSS Variables.
+
+**Thoughts:** It feels good to be coding daily, I plan on holding my streak without breaking stride. I have plenty of work to do and a lot of material to cover. I'm going to finish two more Udemy courses to prepare myself for daily challenges on iCodeThis. 
+
+**Link to work:** [Modern HTML & CSS From The Beginning (Including SASS)](https://www.udemy.com/course/modern-html-css-from-the-beginning)
+
+### Day 2: August 8, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
