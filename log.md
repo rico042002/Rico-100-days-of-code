@@ -18,10 +18,18 @@
 
 **Link to work:** [Modern HTML & CSS From The Beginning (Including SASS)](https://www.udemy.com/course/modern-html-css-from-the-beginning)
 
+### Day 3: August 8, 2023
+
+**Today's Progress**: Finished homepage and started inner pages for the course, took CSS test and got 17/20 with a little help from devdocs.io
+
+**Thoughts:** I have a lot to learn, but I don't feel overwhelmed or stupid when I learn with Brad, I'm going to stick to his courses to prepare for iCodeThis, then after I'm creating a project a day I'll probably start appAcademy or #100devs, I've also heard good things about The Odin Project. Even though I'm taking a class this semester I won't slack on coding daily!
+
+**Link to work:** [Modern HTML & CSS From The Beginning (Including SASS)](https://www.udemy.com/course/modern-html-css-from-the-beginning)
+
 ### Day 0: August 8, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Fixed CSS, and worked on canvas functionality for the app.
 
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
