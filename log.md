@@ -26,7 +26,15 @@
 
 **Link to work:** [Modern HTML & CSS From The Beginning (Including SASS)](https://www.udemy.com/course/modern-html-css-from-the-beginning)
 
-### Day 0: August 8, 2023 EXAMPLE
+### Day 4: August 9, 2023
+
+**Today's Progress**: I finished the website project today, used JQuery library also a new one I've never used called Lightbox V2, also wrote a few scripts for smooth scrolling and a transition effect on the navbar.
+
+**Thoughts:** Had fun coding today. Learned a lot of new things about libraries and the way CSS works. I did not know the big difference between ".class1.class2" and ".class1 .class2" I've been using them interchangeably for years without realizing the difference in precedence until today. Started learning about the basics of Web Hosting and the different types that are available. 
+
+**Link to work:** [Modern HTML & CSS From The Beginning (Including SASS)](https://www.udemy.com/course/modern-html-css-from-the-beginning)
+
+### Day 0: August 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, and worked on canvas functionality for the app.
