@@ -39,8 +39,9 @@
 **Today's Progress**: Uploaded site to github and deployed via Netlify, learned about the different types of Web Hosting and Form Submission. 
 
 **Thoughts:** I had another good day, this course is too much fun and I look forward to learning more and making my own projects soon. By day 50 I will be knocking down iCodeThis challenges daily!
-[![Netlify Status](https://api.netlify.com/api/v1/badges/18cd7747-ad9a-4de8-8623-939a5d55fa4a/deploy-status)](https://app.netlify.com/sites/edgeledgerfirm/deploys)
+
 **Link to work:** [EdgeLedger Website](https://edgeledgerfirm.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/18cd7747-ad9a-4de8-8623-939a5d55fa4a/deploy-status)](https://app.netlify.com/sites/edgeledgerfirm/deploys)
 
 ### Day 0: August 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
