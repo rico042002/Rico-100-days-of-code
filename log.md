@@ -54,7 +54,7 @@
 **Link to forum:** [Button Does Not Submit Form](https://tanalin.com/en/blog/posts/form-submit/)
 
 ### Day 7: August 12, 2023
-
+![Celebration](https://github.com/rico042002/Rico-100-days-of-code/blob/master/img/week1.gif?raw=true)
 **Today's Progress**: Completed Presentation website project, and learned more about animation and keyframes.
 
 **Thoughts:** Making good pace on the course, I'm about 60% finished and will be moving on to the Javascript course, then 50 Projects in 50 Days. After those two I will have enough knowledge to complete some of the basic iCodeThis challenges.
