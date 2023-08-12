@@ -38,10 +38,22 @@
 
 **Today's Progress**: Uploaded site to github and deployed via Netlify, learned about the different types of Web Hosting and Form Submission. 
 
-**Thoughts:** I had another good day, this course is too much fun and I look forward to learning more and making my own projects soon. By day 50 I will be knocking down iCodeThis challenges daily!
+**Thoughts:** I had another excellent day, this course is too much fun and I look forward to learning more and making my own projects soon. By day 50 I will be knocking down iCodeThis challenges daily!
 
 **Link to work:** [EdgeLedger Website](https://edgeledgerfirm.netlify.app/)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/18cd7747-ad9a-4de8-8623-939a5d55fa4a/deploy-status)](https://app.netlify.com/sites/edgeledgerfirm/deploys)
+
+### Day 6: August 11, 2023
+
+**Today's Progress**: Fixed submission problem with Form on EegeLedger website! Learned about CSS Transform, Transition, Box/Text Shadow properties.
+
+**Thoughts:** After two days of worrying about why my form wasn't submitting, I continued watching the course to find out that my JavaScript was stopping my form from submitting! Which is exactly what I read in a forum the same night before coming back to it the next day. It was a small bug but it felt really good to finally fix it and move on in the course. I was actually about to do another YouTube tutorial to get better with Netlify's forum submission system. It is easy, I just need to be careful of my event handlers in JS. Did a short build yesterday because I thought I didn't understand it well and ended up with a quick premade site that taught me more about forms and HTML5 markup.
+
+**Link to work:** [Paradigm Shift Website](https://stellar-flan.netlify.app/)
+**[![Netlify Status](https://api.netlify.com/api/v1/badges/5cb29df8-3f93-42c7-8ab2-bad5da8f9caf/deploy-status)](https://app.netlify.com/sites/stellar-flan/deploys)
+**Link to work:** [EdgeLedger Website](https://edgeledgerfirm.netlify.app/)
+**Link to work:** [Button Does Not Submit Form](https://tanalin.com/en/blog/posts/form-submit/)
+
 
 ### Day 0: August 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
