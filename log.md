@@ -51,7 +51,11 @@
 
 **Link to work:** [Paradigm Shift Website](https://stellar-flan.netlify.app/)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5cb29df8-3f93-42c7-8ab2-bad5da8f9caf/deploy-status)](https://app.netlify.com/sites/stellar-flan/deploys)  **Link to work:** [EdgeLedger Website](https://edgeledgerfirm.netlify.app/)  **Link to work:** [Button Does Not Submit Form](https://tanalin.com/en/blog/posts/form-submit/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5cb29df8-3f93-42c7-8ab2-bad5da8f9caf/deploy-status)](https://app.netlify.com/sites/stellar-flan/deploys)  
+
+**Link to work:** [EdgeLedger Website](https://edgeledgerfirm.netlify.app/)  
+
+**Link to work:** [Button Does Not Submit Form](https://tanalin.com/en/blog/posts/form-submit/)
 
 
 ### Day 0: August 0, 2023 EXAMPLE
