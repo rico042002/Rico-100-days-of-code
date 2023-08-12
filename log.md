@@ -53,6 +53,14 @@
 **Link to work:** [EdgeLedger Website](https://edgeledgerfirm.netlify.app/)  <br />
 **Link to forum:** [Button Does Not Submit Form](https://tanalin.com/en/blog/posts/form-submit/)
 
+### Day 7: August 12, 2023
+
+**Today's Progress**: Completed Presentation website project, and learned more about animation and keyframes.
+
+**Thoughts:** Making good pace on the course, I'm about 60% finished and will be moving on to the Javascript course, then 50 Projects in 50 Days. After those two I will have enough knowledge to complete some of the basic iCodeThis challenges.
+
+**Link to work:** [Bootleg PowerPoint Website](https://bootleg-powerpoint.netlify.app/)<br>
+**Link to website:** [iCodeThis](https://icodethis.com/)
 
 ### Day 0: August 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
@@ -62,4 +70,3 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
-
