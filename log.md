@@ -60,7 +60,7 @@
 
 **Thoughts:** Making good pace on the course, I'm about 60% finished and will be moving on to the Javascript course, then 50 Projects in 50 Days. After those two I will have enough knowledge to complete some of the basic iCodeThis challenges.
 
-**Link to work:** [Bootleg PowerPoint Website](https://bootleg-powerpoint.netlify.app/)<br>
+**Link to work:** [Bootleg PowerPoint Website](https://bootleg-powerpoint.netlify.app/)  [![Netlify Status](https://api.netlify.com/api/v1/badges/c348996e-468e-4402-8446-a329bacf992a/deploy-status)](https://app.netlify.com/sites/overlay-hamburger/deploys)<br>
 **Link to website:** [iCodeThis](https://icodethis.com/)
 
 ### Day 8: August 13, 2023
