@@ -63,6 +63,14 @@
 **Link to work:** [Bootleg PowerPoint Website](https://bootleg-powerpoint.netlify.app/)<br>
 **Link to website:** [iCodeThis](https://icodethis.com/)
 
+### Day 8: August 13, 2023
+
+**Today's Progress**: Finished another one of the mini project websites, a pure CSS Hamburger Menu.
+
+**Thoughts:** It took a lot of CSS to make a simple Hamburger Menu, loved this project because it showed me a CSS selector I have never used ' ~ ' 
+
+**Link to work:** [Hamburger Menu Overlay](https://overlay-hamburger.netlify.app/)  [![Netlify Status](https://api.netlify.com/api/v1/badges/c348996e-468e-4402-8446-a329bacf992a/deploy-status)](https://app.netlify.com/sites/overlay-hamburger/deploys)
+
 ### Day 0: August 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
