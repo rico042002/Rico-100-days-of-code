@@ -71,6 +71,14 @@
 
 **Link to work:** [Hamburger Menu Overlay](https://overlay-hamburger.netlify.app/)  [![Netlify Status](https://api.netlify.com/api/v1/badges/c348996e-468e-4402-8446-a329bacf992a/deploy-status)](https://app.netlify.com/sites/overlay-hamburger/deploys)
 
+### Day 9: August 14, 2023 
+
+**Today's Progress**: Completed Knowledge Timeline project and deployed it, started Dropdown Menu website. 
+
+**Thoughts:** I'm enjoying coding more these days, by deciding to do an hour a day the stress level and pressure of finishing a boot camp kind of fade away. I just want to get better at recreating layouts and be good enough to start freelancing on Upwork and Fiverr. I have a long way to go but I'm getting there day by day. 
+
+**Link to work:** [Knowledge Timeline]([http://www.example.com](https://timeline-knowledge.netlify.app/))  [![Netlify Status](https://api.netlify.com/api/v1/badges/754def30-f470-46bd-9af0-358c53b45986/deploy-status)](https://app.netlify.com/sites/timeline-knowledge/deploys)
+
 ### Day 0: August 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
