@@ -77,7 +77,7 @@
 
 **Thoughts:** I'm enjoying coding more these days, by deciding to do an hour a day the stress level and pressure of finishing a boot camp kind of fade away. I just want to get better at recreating layouts and be good enough to start freelancing on Upwork and Fiverr. I have a long way to go but I'm getting there day by day. 
 
-**Link to work:** [Knowledge Timeline]([http://www.example.com](https://timeline-knowledge.netlify.app/))  [![Netlify Status](https://api.netlify.com/api/v1/badges/754def30-f470-46bd-9af0-358c53b45986/deploy-status)](https://app.netlify.com/sites/timeline-knowledge/deploys)
+**Link to work:** [Knowledge Timeline](https://timeline-knowledge.netlify.app/)  [![Netlify Status](https://api.netlify.com/api/v1/badges/754def30-f470-46bd-9af0-358c53b45986/deploy-status)](https://app.netlify.com/sites/timeline-knowledge/deploys)
 
 ### Day 0: August 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
