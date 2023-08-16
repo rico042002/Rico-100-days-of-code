@@ -79,6 +79,15 @@
 
 **Link to work:** [Knowledge Timeline](https://timeline-knowledge.netlify.app/)  [![Netlify Status](https://api.netlify.com/api/v1/badges/754def30-f470-46bd-9af0-358c53b45986/deploy-status)](https://app.netlify.com/sites/timeline-knowledge/deploys)
 
+### Day 10: August 15, 2023 
+
+**Today's Progress**: Finished Dropdown menu site and committed the code, started learning the basics of CSS Grid
+
+**Thoughts:** It's awesome how Brad explains stuff, I'm learning a lot, and taking notes. All while creating projects that I can actually use in the future. I can't wait to check out his JavaScript course. I was looking at some iCodeThis challenges and some of them are really hard! Like creating a dynamic calendar with a task list. I'll get there eventually, all I have to do is press forward, try my best, and give it my ALL!!!
+
+**Link to work:** [Modern HTML & CSS From The Beginning (Including SASS)](https://www.udemy.com/course/modern-html-css-from-the-beginning)
+**Link to work:** [Dropdown_Menu_Repo](https://github.com/rico042002/dropdown_menu.git)
+
 ### Day 0: August 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
@@ -87,3 +96,4 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
+
