@@ -85,7 +85,7 @@
 
 **Thoughts:** It's awesome how Brad explains stuff, I'm learning a lot, and taking notes. All while creating projects that I can actually use in the future. I can't wait to check out his JavaScript course. I was looking at some iCodeThis challenges and some of them are really hard! Like creating a dynamic calendar with a task list. I'll get there eventually, all I have to do is press forward, try my best, and give it my ALL!!!
 
-**Link to work:** [Modern HTML & CSS From The Beginning (Including SASS)](https://www.udemy.com/course/modern-html-css-from-the-beginning)
+**Link to work:** [Modern HTML & CSS From The Beginning (Including SASS)](https://www.udemy.com/course/modern-html-css-from-the-beginning)<br>
 **Link to work:** [Dropdown_Menu_Repo](https://github.com/rico042002/dropdown_menu.git)
 
 ### Day 0: August 0, 2023 EXAMPLE
