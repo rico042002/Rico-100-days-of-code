@@ -88,6 +88,14 @@
 **Link to work:** [Modern HTML & CSS From The Beginning (Including SASS)](https://www.udemy.com/course/modern-html-css-from-the-beginning)<br>
 **Link to work:** [Dropdown_Menu_Repo](https://github.com/rico042002/dropdown_menu.git)
 
+### Day 11: August 16, 2023
+
+**Today's Progress**: Learning all about CSS Grid - Columns, Rows, Spans, Minmax, and Grid Areas.
+
+**Thoughts:** Today was not a good day but I still pushed through my hour of code. I usually have fun and the time flies by, today I was faced with distractions at work and within myself. I've learned through reading that showing up on bad days matters more than good when building habits though, I made it through today's challenge and tomorrow will be better. 
+
+**Link to work:** [Modern HTML & CSS From The Beginning (Including SASS)](https://www.udemy.com/course/modern-html-css-from-the-beginning)
+
 ### Day 0: August 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
