@@ -96,6 +96,15 @@
 
 **Link to work:** [Modern HTML & CSS From The Beginning (Including SASS)](https://www.udemy.com/course/modern-html-css-from-the-beginning)
 
+### Day 12: August 17, 2023
+
+**Today's Progress**: Finished basics of CSS Grid, learned about media queries with CSS Grid, almost finished with News Grid webpage.
+
+**Thoughts:** Had a lot of fun today, did the course for 2.5 hours! I'm 80% done with it and ready to start the JS course, the first 12hrs are free on YouTube so I might have enough content to last me until payday and then I will purchase it. Get up to speed with Modern JS, read a few books, and do my best to complete a challenge a day on iCodeThis. Danny Thompson said he was "loving the consistency" in the #100daysOfCode "Commit Your Code" discord! I'm just trying to get better at making sites and DSA so that by the time I graduate getting a job won't be so hard.
+
+**Link to work:** [Modern HTML & CSS From The Beginning (Including SASS)](https://www.udemy.com/course/modern-html-css-from-the-beginning)<br>
+**Link to work:** [News Grid Repo](https://github.com/rico042002/newsGrid)
+
 ### Day 0: August 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
@@ -104,4 +113,3 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
-
