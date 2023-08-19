@@ -105,6 +105,14 @@
 **Link to work:** [Modern HTML & CSS From The Beginning (Including SASS)](https://www.udemy.com/course/modern-html-css-from-the-beginning)<br>
 **Link to work:** [News Grid Repo](https://github.com/rico042002/newsGrid)
 
+### Day 13: August 18, 2023
+
+**Today's Progress**: Completed News Grid website
+
+**Thoughts:** Finished News Gird website, and got a refreshing lecture on Git, Github, and Netlify.
+
+**Link to work:** [News Grid Repo](https://sportsnews-grid.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/1159fdf2-8ef6-4833-9bc7-64943dc457f2/deploy-status)](https://app.netlify.com/sites/sportsnews-grid/deploys)
+
 ### Day 0: August 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
