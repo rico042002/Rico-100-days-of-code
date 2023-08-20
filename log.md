@@ -113,6 +113,14 @@
 
 **Link to work:** [News Grid Repo](https://sportsnews-grid.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/1159fdf2-8ef6-4833-9bc7-64943dc457f2/deploy-status)](https://app.netlify.com/sites/sportsnews-grid/deploys)
 
+### Day 14: August 19, 2023
+
+**Today's Progress**: Finished SASS lesson, starting Portfolio Project
+
+**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link to work:** [Calculator App](http://www.example.com)
+
 ### Day 0: August 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
