@@ -119,7 +119,7 @@
 
 **Thoughts:** This is the final project of the course, I will be done in 2 days minimum. I'm going to work on the HTML&CSS youtube playlist Brad Traversy made for a developer roadmap so I can brush up on all the topics I've learned, and then move on to the Javascript list which includes the course I want to buy. That way I can start the 50days50projects course closer to day 50.
 
-**Link to work:** [Sass Sandbox](https://sass-sandbox.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/7e1c7c35-765d-4d2f-8e98-55782012d971/deploy-status)](https://app.netlify.com/sites/sass-sandbox/deploys)
+**Link to work:** [Sass Sandbox](https://sass-sandbox.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/7e1c7c35-765d-4d2f-8e98-55782012d971/deploy-status)](https://app.netlify.com/sites/sass-sandbox/deploys) <br/>
 **Link to work:** [HTML & CSS Playlist (50+ Projects)](https://www.youtube.com/playlist?list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU)
 
 ### Day 0: August 0, 2023 EXAMPLE
