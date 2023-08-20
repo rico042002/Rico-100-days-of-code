@@ -115,6 +115,7 @@
 
 ### Day 14: August 19, 2023
 ![Week 2 Completed](https://github.com/rico042002/Rico-100-days-of-code/blob/master/img/week2.gif?raw=true)
+
 **Today's Progress**: Finished SASS section of the course, starting the final Portfolio Project.
 
 **Thoughts:** This is the final project of the course, I will be done in 2 days minimum. I'm going to work on the HTML&CSS youtube playlist Brad Traversy made for a developer roadmap so I can brush up on all the topics I've learned, and then move on to the Javascript list which includes the course I want to buy. That way I can start the 50days50projects course closer to day 50.
