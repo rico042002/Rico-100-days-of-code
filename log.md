@@ -114,7 +114,7 @@
 **Link to work:** [News Grid Repo](https://sportsnews-grid.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/1159fdf2-8ef6-4833-9bc7-64943dc457f2/deploy-status)](https://app.netlify.com/sites/sportsnews-grid/deploys)
 
 ### Day 14: August 19, 2023
-<div style="width:100%;height:0;padding-bottom:76%;position:relative;"><iframe src="https://giphy.com/embed/11BbGyhVmk4iLS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/working-typing-cartoon-11BbGyhVmk4iLS">via GIPHY</a></p>
+
 **Today's Progress**: Finished SASS lesson, starting Portfolio Project
 
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
