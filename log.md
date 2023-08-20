@@ -114,12 +114,13 @@
 **Link to work:** [News Grid Repo](https://sportsnews-grid.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/1159fdf2-8ef6-4833-9bc7-64943dc457f2/deploy-status)](https://app.netlify.com/sites/sportsnews-grid/deploys)
 
 ### Day 14: August 19, 2023
+![Week 2 Completed](https://github.com/rico042002/Rico-100-days-of-code/blob/master/img/week2.gif?raw=true)
+**Today's Progress**: Finished SASS section of the course, starting the final Portfolio Project.
 
-**Today's Progress**: Finished SASS lesson, starting Portfolio Project
+**Thoughts:** This is the final project of the course, I will be done in 2 days minimum. I'm going to work on the HTML&CSS youtube playlist Brad Traversy made for a developer roadmap so I can brush up on all the topics I've learned, and then move on to the Javascript list which includes the course I want to buy. That way I can start the 50days50projects course closer to day 50.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Sass Sandbox](https://sass-sandbox.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/7e1c7c35-765d-4d2f-8e98-55782012d971/deploy-status)](https://app.netlify.com/sites/sass-sandbox/deploys)
+**Link to work:** [HTML & CSS Playlist (50+ Projects)](https://www.youtube.com/playlist?list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU)
 
 ### Day 0: August 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
