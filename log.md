@@ -123,6 +123,14 @@
 **Link to work:** [Sass Sandbox](https://sass-sandbox.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/7e1c7c35-765d-4d2f-8e98-55782012d971/deploy-status)](https://app.netlify.com/sites/sass-sandbox/deploys) <br/>
 **Link to work:** [HTML & CSS Playlist (50+ Projects)](https://www.youtube.com/playlist?list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU)
 
+### Day 15: August 20, 2023
+
+**Today's Progress**: Set up everything for the portfolio project, and made the main header and navbar.
+
+**Thoughts:** Sass is not easy, the nesting is confusing sometimes but I'm getting the hang of it. It's not that I don't like it, just not used to the syntax.
+
+**Link to work:** [Modern HTML & CSS From The Beginning (Including SASS)](https://www.udemy.com/course/modern-html-css-from-the-beginning)
+
 ### Day 0: August 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
