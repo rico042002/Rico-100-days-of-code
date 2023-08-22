@@ -131,6 +131,14 @@
 
 **Link to work:** [Modern HTML & CSS From The Beginning (Including SASS)](https://www.udemy.com/course/modern-html-css-from-the-beginning)
 
+### Day 16: August 21, 2023 
+
+**Today's Progress**: Continued Portfolio Project, almost done with the landing page.
+
+**Thoughts:** Had fun today, and had a bunch of issues with typos, so I guess you can say it was an off day. Forgot a quotation mark in a data set for a javascript function so the typewriter effect didn't originally work, then I had padding issues that I think had more to do with the fact that Brad records his course videos from big screen TVs, so I had to use 10% padding, where his suggestion is 20%. Either way it was fun to debug some code and have some issues to make everything the way I wanted it to look.
+
+**Link to work:** [Modern HTML & CSS From The Beginning (Including SASS)](https://www.udemy.com/course/modern-html-css-from-the-beginning)
+
 ### Day 0: August 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
