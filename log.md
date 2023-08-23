@@ -139,6 +139,14 @@
 
 **Link to work:** [Modern HTML & CSS From The Beginning (Including SASS)](https://www.udemy.com/course/modern-html-css-from-the-beginning)
 
+### Day 17: August 22, 2023
+
+**Today's Progress**: Finished home landing page, started about.html
+
+**Thoughts:** Using Sass and animations has increased the time on the videos but they are still entertaining and educating me so much on CSS! I want to learn so much more about it so I can make cool layouts and pages in the future.
+
+**Link to work:** [Modern HTML & CSS From The Beginning (Including SASS)](https://www.udemy.com/course/modern-html-css-from-the-beginning)
+
 ### Day 0: August 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
