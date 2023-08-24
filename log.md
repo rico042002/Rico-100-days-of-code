@@ -147,6 +147,14 @@
 
 **Link to work:** [Modern HTML & CSS From The Beginning (Including SASS)](https://www.udemy.com/course/modern-html-css-from-the-beginning)
 
+### Day 18: August 23, 2023 
+
+**Today's Progress**: Finished about page!
+
+**Thoughts:** Learned some cool CSS tricks, like how to create a progress bar with pure CSS. I also understand how and when Divs are needed, I'm making awesome pace on the course and I'm five videos away from being done! I'm probably going to continue the HTML/CSS part of the roadmap before jumping into JavaScript, but I will definitely be getting his JS Course soon. 
+
+**Link to work:** [Modern HTML & CSS From The Beginning (Including SASS)](https://www.udemy.com/course/modern-html-css-from-the-beginning)
+
 ### Day 0: August 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
