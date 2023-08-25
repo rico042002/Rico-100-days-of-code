@@ -155,6 +155,14 @@
 
 **Link to work:** [Modern HTML & CSS From The Beginning (Including SASS)](https://www.udemy.com/course/modern-html-css-from-the-beginning)
 
+### Day 19: August 24, 2023
+
+**Today's Progress**: Finished work page, and started contact page.
+
+**Thoughts:** Almost done with the course, going to continue with the HTML/CSS part of the roadmap. I think I counted 64 different projects on the YouTube list, which is a lot. I want to finish them in good time and do a minimum of two per day, I have more than enough content to last me for payday to come around again and buy the JavaScript course. 
+
+**Link to work:** [Modern HTML & CSS From The Beginning (Including SASS)](https://www.udemy.com/course/modern-html-css-from-the-beginning)
+
 ### Day 0: August 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
@@ -163,3 +171,4 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
+
