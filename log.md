@@ -163,6 +163,14 @@
 
 **Link to work:** [Modern HTML & CSS From The Beginning (Including SASS)](https://www.udemy.com/course/modern-html-css-from-the-beginning)
 
+### Day 20: August 25, 2023
+
+**Today's Progress**: Worked on contact page, almost finished
+
+**Thoughts:** Built form and learned more about Sass nesting, should be done with the course by the end of the weekend.
+
+**Link to work:** [Modern HTML & CSS From The Beginning (Including SASS)](https://www.udemy.com/course/modern-html-css-from-the-beginning)
+
 ### Day 0: August 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
