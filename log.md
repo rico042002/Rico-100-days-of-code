@@ -176,9 +176,9 @@
 
 **Today's Progress**: Finished contact page, and media queries, uploaded and deployed to netlify, and completed course!!!
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I finished the entire course in 21 days which is kind of ironic because it was exactly 21 hours of content and I was coding an hour a day. So I guess I'm right on time 😆 So I'm going to start hacking down at the HTML/CSS list so I can code every day. There is plenty of work to do and much to learn. I added the certificate of completion to my LinkedIn because this is the first one I've finished in a while. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Portfolio Project Website](https://stellar-rolypoly.netlify.app/)
 
 ### Day 0: August 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
