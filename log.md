@@ -171,6 +171,15 @@
 
 **Link to work:** [Modern HTML & CSS From The Beginning (Including SASS)](https://www.udemy.com/course/modern-html-css-from-the-beginning)
 
+### Day 21: August 26, 2023 EXAMPLE
+![Week 2 Completed](https://github.com/rico042002/Rico-100-days-of-code/blob/master/img/week3.gif?raw=true)
+
+**Today's Progress**: Finished contact page, and media queries, uploaded and deployed to netlify, and completed course!!!
+
+**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link to work:** [Calculator App](http://www.example.com)
+
 ### Day 0: August 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
@@ -179,4 +188,3 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
-
