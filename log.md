@@ -171,7 +171,7 @@
 
 **Link to work:** [Modern HTML & CSS From The Beginning (Including SASS)](https://www.udemy.com/course/modern-html-css-from-the-beginning)
 
-### Day 21: August 26, 2023 EXAMPLE
+### Day 21: August 26, 2023 
 ![Week 2 Completed](https://github.com/rico042002/Rico-100-days-of-code/blob/master/img/week3.gif?raw=true)
 
 **Today's Progress**: Finished contact page, and media queries, uploaded and deployed to netlify, and completed course!!!
