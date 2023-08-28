@@ -178,7 +178,18 @@
 
 **Thoughts:** I finished the entire course in 21 days which is kind of ironic because it was exactly 21 hours of content and I was coding an hour a day. So I guess I'm right on time 😆 So I'm going to start hacking down at the HTML/CSS list so I can code every day. There is plenty of work to do and much to learn. I added the certificate of completion to my LinkedIn because this is the first one I've finished in a while. 
 
-**Link to work:** [Portfolio Project Website](https://stellar-rolypoly.netlify.app/)
+**Link to work:** [Portfolio Project Website](https://stellar-rolypoly.netlify.app/) 
+
+### Day 22: August 27, 2023 
+
+**Today's Progress**: Started "Microsoft Homepage Clone" Tutorial
+
+**Thoughts:** Udemy is having a five-day sale on courses! I'm going to purchase the Javascript course on Tuesday and do my best to finish the massive amount of videos there are on the YouTube playlist which includes this video. I have plenty of work to do but I'm having fun in the process.
+
+**Link to work:** [Microsoft Homepage Clone](https://youtu.be/uKgn-To1C4Q?si=KxZd0TlUpx9oMY08)<br>
+**Link to work:** [Traversy Media Roadmap Guide](https://www.traversymedia.com/guide)<br>
+**Link to work:** [HTML&CSS Playlist](https://youtube.com/playlist?list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&si=ki2gj10lxTt6NV45)<br>
+**Link to work:** [Modern JavaScript From The Beginning 2.0 - 2023 Revamp](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
 
 ### Day 0: August 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
