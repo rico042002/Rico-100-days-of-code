@@ -191,6 +191,14 @@
 **Link to work:** [HTML&CSS Playlist](https://youtube.com/playlist?list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&si=ki2gj10lxTt6NV45)<br>
 **Link to work:** [Modern JavaScript From The Beginning 2.0 - 2023 Revamp](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
 
+### Day 23: August 28, 2023
+
+**Today's Progress**: Almost done with Microsoft Homepage
+
+**Thoughts:** Should be finished and deploying the cloned homepage tomorrow. Did the hero section, and main section, and started styling the footer. So tomorrow should be media queries and deployment on Netlify.
+
+**Link to work:** [Microsoft Homepage Clone](https://youtu.be/uKgn-To1C4Q?si=KxZd0TlUpx9oMY08)
+
 ### Day 0: August 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
