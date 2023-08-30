@@ -205,7 +205,7 @@
 
 **Thoughts:** Had fun today, almost coded for two hours. Switched up coding teachers today, started this project a week ago on the side, and wasn't tracking the time on doing it because I plan on adding a special page for my daughter. It's a personal project because she really likes Unicorns and I think she's going to love it if I add some of her pics and the right CSS and animations.
 
-**Link to work:** [Microsoft Homepage Clone Website](https://boss-baby-bill-gates.netlify.app/)[Netlify Status](https://api.netlify.com/api/v1/badges/d1151184-85b2-4027-983a-91136b8fa17f/deploy-status)<br>
+**Link to work:** [Microsoft Homepage Clone Website](https://boss-baby-bill-gates.netlify.app/)[![Netlify Status](https://api.netlify.com/api/v1/badges/d1151184-85b2-4027-983a-91136b8fa17f/deploy-status)](https://app.netlify.com/sites/boss-baby-bill-gates/deploys)<br>
 **Link to work:** [Learn How To Make a Website with Steph](https://learnfromsteph.dev/lessons/)
 
 ### Day 0: August 0, 2023 EXAMPLE
