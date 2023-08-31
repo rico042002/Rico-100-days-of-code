@@ -208,6 +208,15 @@
 **Link to work:** [Microsoft Homepage Clone Website](https://boss-baby-bill-gates.netlify.app/)[![Netlify Status](https://api.netlify.com/api/v1/badges/d1151184-85b2-4027-983a-91136b8fa17f/deploy-status)](https://app.netlify.com/sites/boss-baby-bill-gates/deploys)<br>
 **Link to work:** [Learn How To Make a Website with Steph](https://learnfromsteph.dev/lessons/)
 
+### Day 25: August 30, 2023
+
+**Today's Progress**: Continued Make a Website with Steph, built navbar 
+
+**Thoughts:** Made the navigation and put the final touches on this short course. I'm on lesson 12 of 16 and the videos aren't too long, but I'm learning a lot about CSS, that's why I'm also enjoying learning from her. I also purchased the "Modern Javascript from the Beginning" course by Brad Traversy today! Today was the last day it would be on sale for $15 so I went ahead and did it. I will still be doing the HTML/CSS builds when I have the time. I'm just trying to stay on the path all while not overwhelming myself with work that doesn't matter again.
+
+**Link to work:** [Learn How To Make a Website with Steph](https://learnfromsteph.dev/lessons/)<br/>
+**Link to work:** [Modern JavaScript From The Beginning 2.0 - 2023 Revamp](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
+
 ### Day 0: August 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
