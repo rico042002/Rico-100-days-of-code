@@ -217,6 +217,14 @@
 **Link to work:** [Learn How To Make a Website with Steph](https://learnfromsteph.dev/lessons/)<br/>
 **Link to work:** [Modern JavaScript From The Beginning 2.0 - 2023 Revamp](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
 
+### Day 26: August 31, 2023
+
+**Today's Progress**: Finished website build!
+
+**Thoughts:** Had some issues with my gulp file but I didn't watch the final video of the course and ended up removing it. I still want to figure out how to deploy with gulp so I'll probably check it out tomorrow and re-do it. Get to start the JavaScript course after
+
+**Link to work:** [Unicorn Space Tours](https://unicorn-tours.netlify.app/)[![Netlify Status](https://api.netlify.com/api/v1/badges/d4610ce1-bb6b-4ca6-9019-a86931e55b54/deploy-status)](https://app.netlify.com/sites/unicorn-tours/deploys)
+
 ### Day 0: August 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
