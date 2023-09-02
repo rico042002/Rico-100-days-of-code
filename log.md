@@ -241,7 +241,7 @@
 **Thoughts:** I've learned JS in a few different ways, this is the second course I've ever taken on it. And it has been a LONG time. I plan on learning enough to build my own stuff and not just follow along with tutorials. After I get to a place where I can recreate layouts I will move on to Data Structures and Algorithms. 
 
 **Link to work:** [Modern JavaScript From The Beginning 2.0 - 2023 Revamp](https://www.udemy.com/course/modern-javascript-from-the-beginning/)<br>
-**Link to work:** [Course Links](https://www.notion.so/Course-Links-acbce10f2ae14750a62daed22460ff30)
+**Link to work:** [Course Links](https://unmarred-rice-a7c.notion.site/Course-Links-acbce10f2ae14750a62daed22460ff30?pvs=4)
 
 ### Day 0: September 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
