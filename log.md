@@ -157,7 +157,7 @@
 
 ### Day 19: August 24, 2023
 
-**Today's Progress**: Finished work page, and started contact page.
+**Today's Progress**: Finished work page, and started the contact page.
 
 **Thoughts:** Almost done with the course, going to continue with the HTML/CSS part of the roadmap. I think I counted 64 different projects on the YouTube list, which is a lot. I want to finish them in good time and do a minimum of two per day, I have more than enough content to last me for payday to come around again and buy the JavaScript course. 
 
@@ -165,7 +165,7 @@
 
 ### Day 20: August 25, 2023
 
-**Today's Progress**: Worked on contact page, almost finished
+**Today's Progress**: Worked on the contact page, almost finished
 
 **Thoughts:** Built form and learned more about Sass nesting, should be done with the course by the end of the weekend.
 
@@ -174,7 +174,7 @@
 ### Day 21: August 26, 2023 
 ![Week 2 Completed](https://github.com/rico042002/Rico-100-days-of-code/blob/master/img/week3.gif?raw=true)
 
-**Today's Progress**: Finished contact page, and media queries, uploaded and deployed to netlify, and completed course!!!
+**Today's Progress**: Finished contact page, and media queries, uploaded and deployed to Netlify, and completed course!!!
 
 **Thoughts:** I finished the entire course in 21 days which is kind of ironic because it was exactly 21 hours of content and I was coding an hour a day. So I guess I'm right on time 😆 So I'm going to start hacking down at the HTML/CSS list so I can code every day. There is plenty of work to do and much to learn. I added the certificate of completion to my LinkedIn because this is the first one I've finished in a while. 
 
@@ -223,9 +223,16 @@
 
 **Thoughts:** Had some issues with my gulp file but I didn't watch the final video of the course and ended up removing it. I still want to figure out how to deploy with gulp so I'll probably check it out tomorrow and re-do it. Get to start the JavaScript course after
 
-**Link to work:** [Unicorn Space Tours](https://unicorn-tours.netlify.app/)[![Netlify Status](https://api.netlify.com/api/v1/badges/d4610ce1-bb6b-4ca6-9019-a86931e55b54/deploy-status)](https://app.netlify.com/sites/unicorn-tours/deploys)
+**Link to work:** [Unicorn Space Tours](https://unicorn-space-tour.netlify.app/)[![Netlify Status](https://api.netlify.com/api/v1/badges/fa5a69c3-18fe-42d2-9e77-c844bc31080f/deploy-status)](https://app.netlify.com/sites/unicorn-space-tour/deploys)
+### Day 27: September 1, 2023
 
-### Day 0: August 0, 2023 EXAMPLE
+**Today's Progress**: Deleted original build and re-deployed with Gulp Build
+
+**Thoughts:** I couldn't help myself. Even though the site was up and working just fine, I wanted to know how she deployed to Netlify with a gulp build process. I've only used gulp once before in a JavaScript course with Wes Bos and my laptop was so old at the time I didn't even have Node.JS on it because it was so slow. She shows how to add a build function and how to change your JSON file to include a build process. I learned a lot from a course that seemed easy at first. Now it's time to start the Javascript course with Brad and continue to do YouTube builds on the side. I don't want to burn out so I'm not sure if I should track or make the website builds mandatory, just projects to keep me fresh and remind me I'm preparing for iCodeThis challenges.
+
+**Link to work:** [Unicorn Space Tours](https://unicorn-space-tour.netlify.app/)
+
+### Day 0: Septemeber 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, and worked on canvas functionality for the app.
