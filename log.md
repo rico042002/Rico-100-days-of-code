@@ -226,13 +226,13 @@
 **Link to work:** [Unicorn Space Tours](https://unicorn-space-tour.netlify.app/)[![Netlify Status](https://api.netlify.com/api/v1/badges/fa5a69c3-18fe-42d2-9e77-c844bc31080f/deploy-status)](https://app.netlify.com/sites/unicorn-space-tour/deploys)
 ### Day 27: September 1, 2023
 
-**Today's Progress**: Deleted original build and re-deployed with Gulp Build
+**Today's Progress**: Deleted original build and re-deployed with Gulp and added working form submissions
 
 **Thoughts:** I couldn't help myself. Even though the site was up and working just fine, I wanted to know how she deployed to Netlify with a gulp build process. I've only used gulp once before in a JavaScript course with Wes Bos and my laptop was so old at the time I didn't even have Node.JS on it because it was so slow. She shows how to add a build function and how to change your JSON file to include a build process. I learned a lot from a course that seemed easy at first. Now it's time to start the Javascript course with Brad and continue to do YouTube builds on the side. I don't want to burn out so I'm not sure if I should track or make the website builds mandatory, just projects to keep me fresh and remind me I'm preparing for iCodeThis challenges.
 
 **Link to work:** [Unicorn Space Tours](https://unicorn-space-tour.netlify.app/)
 
-### Day 0: Septemeber 0, 2023 EXAMPLE
+### Day 0: September 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, and worked on canvas functionality for the app.
