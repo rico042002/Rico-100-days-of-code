@@ -243,6 +243,15 @@
 **Link to work:** [Modern JavaScript From The Beginning 2.0 - 2023 Revamp](https://www.udemy.com/course/modern-javascript-from-the-beginning/)<br>
 **Link to work:** [Course Links](https://unmarred-rice-a7c.notion.site/Course-Links-acbce10f2ae14750a62daed22460ff30?pvs=4)
 
+### Day 29: September 3, 2023
+
+**Today's Progress**: Learned about Primitive and Reference Data Types and how they are accessed in the stack and heap. 
+
+**Thoughts:** Learned all about the typeOf() operator and how null being an object was a freak accident in JS. The beginning of the course seems to be explaining everything going on under the hood, which is awesome, I'm excited to learn more about it and how to get better with it. 
+
+**Link to work:** [typeOf() MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof#typeof_null)
+**Link to work:** [typeOf() Operator](https://262.ecma-international.org/5.1/#sec-11.4.3)
+
 ### Day 0: September 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
