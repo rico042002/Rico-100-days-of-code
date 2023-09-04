@@ -249,8 +249,8 @@
 
 **Thoughts:** Learned all about the typeOf() operator and how null being an object was a freak accident in JS. The beginning of the course seems to be explaining everything going on under the hood, which is awesome, I'm excited to learn more about it and how to get better with it. 
 
-**Link to work:** [typeOf() MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof#typeof_null)
-**Link to work:** [typeOf() Operator](https://262.ecma-international.org/5.1/#sec-11.4.3)
+**Link to work:** [typeOf( ) MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof#typeof_null)<br>
+**Link to work:** [typeOf( ) Operator](https://262.ecma-international.org/5.1/#sec-11.4.3)
 
 ### Day 0: September 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
