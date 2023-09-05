@@ -252,6 +252,14 @@
 **Link to work:** [typeOf( ) MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof#typeof_null)<br>
 **Link to work:** [typeOf( ) Operator](https://262.ecma-international.org/5.1/#sec-11.4.3)
 
+### Day 30: September 4, 2023 
+
+**Today's Progress**: Went over Type-conversion, Type-coercion, and Assignment operators. 
+
+**Thoughts:** I really have gone back to the basics. This course teaches JavaScript on a fundamental level and I love when he stops to explain how things work under the hood in JS. There is a lot of weird behavior that has made it hard to work with over the years. I'm hoping this is the course to solidify my understanding of basic fundamentals in programming. 
+
+**Link to work:** [Modern JavaScript From The Beginning 2.0 - 2023 Revamp](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
+
 ### Day 0: September 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
