@@ -260,6 +260,14 @@
 
 **Link to work:** [Modern JavaScript From The Beginning 2.0 - 2023 Revamp](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
 
+### Day 31: September 5, 2023
+
+**Today's Progress**: Tried to solve the Capitalize Challenge 
+
+**Thoughts:** I actually worked on the challenge the whole hour working on the challenge and still had to look at the answer at the final 15 minutes. I was close but still didn't get it all the way right. I figured out how to capitalize the first letter but not how to bring the rest of the letters in. I didn't know you could use two methods on a string like that ".substring(1)" will give every single letter after the first one and I didn't know that. I kept trying to use .split() and .join() Maybe I was just overthinking a simple problem. I felt so bad about not getting it that I solved some kata on code wars for the first time in years. I need to get better at working with JavaScript, and the only way is to expose myself to it daily. 
+
+**Link to work:** [How to Capitalize the First Letter of Each Word in JavaScript – a JS Uppercase Tutorial](https://www.freecodecamp.org/news/how-to-capitalize-words-in-javascript/)
+
 ### Day 0: September 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
