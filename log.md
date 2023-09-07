@@ -268,6 +268,14 @@
 
 **Link to work:** [How to Capitalize the First Letter of Each Word in JavaScript – a JS Uppercase Tutorial](https://www.freecodecamp.org/news/how-to-capitalize-words-in-javascript/)
 
+### Day 32: September 6, 2023
+
+**Today's Progress**: Learned about Numbers, Dates/Times, and Math Objects, and solved the Number Challenge on my first attempt!
+
+**Thoughts:** Didn't struggle too hard on today's challenge, I was really excited about solving it on my first try. I want to get better at web development and programming. Realizing they are two different subjects was the greatest epiphany I've had since doing this. Learned about a few math methods and properties today and dates-times. 
+
+**Link to work:** [Is the Javascript date object always one day off?](https://stackoverflow.com/questions/7556591/is-the-javascript-date-object-always-one-day-off)
+
 ### Day 0: September 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
