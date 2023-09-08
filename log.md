@@ -276,6 +276,14 @@
 
 **Link to work:** [Is the Javascript date object always one day off?](https://stackoverflow.com/questions/7556591/is-the-javascript-date-object-always-one-day-off)
 
+### Day 33: September 7, 2023
+
+**Today's Progress**: Worked with Dates-Times, Date Methods, and DateTimeFormat API, also started the Arrays & Objects section and did Array Basics.
+
+**Thoughts:** Learning a lot of fundamentals that I did not know existed in JavaScript, this course is totally worth it. And today Brad released his DSA JavaScript course! I already got it in my cart on Udemy and I'm buying it as soon as I can! Having fun with JS but I still need to build projects so I don't get rusty on CSS and my git commands. 
+
+**Link to work:** [70+ JavaScript Challenges: Data Structures & Algorithms](https://www.udemy.com/course/javascript-challenges/)
+
 ### Day 0: September 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
