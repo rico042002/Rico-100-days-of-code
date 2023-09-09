@@ -286,7 +286,7 @@
 
 ### Day 34: September 8, 2023
 
-**Today's Progress**: Covered more Array methods, concat, and used the spread operator for the first time
+**Today's Progress**: Covered more Array methods, concat, and used the spread operator for the first time. Solved 2 Array Challenges on the first try. 
 
 **Thoughts:** Still covering the basics, I've seen most of this before but these are damn good use cases and explanations. He even breaks down when the method creates a new array, that subject used to be very confusing. Now I'm armed with a little bit of knowledge that could help me in a real-world situation. I can't wait to finish this course and try out the DSA, but I still haven't lost sight of my goal to make it to the top of iCodeThis.
 
