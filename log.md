@@ -293,6 +293,15 @@
 **Link to work:** [JavaScript Array Handbook](https://www.freecodecamp.org/news/javascript-array-handbook/)<br>
 **Link to work:** [iCodeThis](https://icodethis.com/)
 
+### Day 35: September 9, 2023 
+![Week 5](https://github.com/rico042002/Rico-100-days-of-code/blob/master/img/week5.gif?raw=true)
+
+**Today's Progress**: Today was all about Objects, Object literals, Destructuring Objects & Arrays, also learned a little bit about JSON.
+
+**Thoughts:** Today was fun, learned a lot about Objects and Key/Value pairs. After the JSON video ends I have a new challenge, can't wait to try to solve it tomorrow!
+
+**Link to work:** [Objects in JavaScript – A Beginner's Guide](https://www.freecodecamp.org/news/objects-in-javascript-for-beginners/)
+
 ### Day 0: September 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
@@ -301,3 +310,4 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
+
