@@ -300,7 +300,8 @@
 
 **Thoughts:** Today was fun, learned a lot about Objects and Key/Value pairs. After the JSON video ends I have a new challenge, can't wait to try to solve it tomorrow!
 
-**Link to work:** [Objects in JavaScript – A Beginner's Guide](https://www.freecodecamp.org/news/objects-in-javascript-for-beginners/)
+**Link to work:** [Objects in JavaScript – A Beginner's Guide](https://www.freecodecamp.org/news/objects-in-javascript-for-beginners/)<br>
+**Link to work:** [Destructuring in JavaScript – How to Destructure Arrays and Objects](https://www.freecodecamp.org/news/destructuring-patterns-javascript-arrays-and-objects/)
 
 ### Day 0: September 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
