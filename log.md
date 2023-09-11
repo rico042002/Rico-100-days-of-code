@@ -303,6 +303,14 @@
 **Link to work:** [Objects in JavaScript – A Beginner's Guide](https://www.freecodecamp.org/news/objects-in-javascript-for-beginners/)<br>
 **Link to work:** [Destructuring in JavaScript – How to Destructure Arrays and Objects](https://www.freecodecamp.org/news/destructuring-patterns-javascript-arrays-and-objects/)
 
+### Day 36: September 10, 2023 
+
+**Today's Progress**: Finished Arrays & Objects section, completed Object Challenge. 
+
+**Thoughts:** I am learning a lot of useful information in this course! I thought I understood destructuring but it seems like I need to refresh on it because the power to change an object on the fly like that is crazy. I didn't know you could implicitly change a variable into a string by just writing it, you don't even need parentheses! JS does have a lot of weird behavior that goes against its own rules but hey I still love it LoL 
+
+**Link to work:** [Destructuring in JavaScript – How to Destructure Arrays and Objects](https://www.freecodecamp.org/news/destructuring-patterns-javascript-arrays-and-objects/)
+
 ### Day 0: September 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
@@ -311,4 +319,5 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
+
 
