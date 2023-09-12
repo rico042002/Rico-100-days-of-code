@@ -311,6 +311,15 @@
 
 **Link to work:** [Destructuring in JavaScript – How to Destructure Arrays and Objects](https://www.freecodecamp.org/news/destructuring-patterns-javascript-arrays-and-objects/)
 
+### Day 37: September 11, 2023 
+##### (delete me or comment me out)
+
+**Today's Progress**: Started Functions & Scope section, learned about functions, parameters, arguments, global/local/block level scope. 
+
+**Thoughts:** I knew I hated the var keyword! I used to have a hard time understanding why my variables would pass and not pass arguments when I originally tried to finish FreeCodeCamp DSA section! It actually used to drive me crazy on why my functions would not work correctly, now years later I found out about how funny it is on the scope and why it was replaced with let and const. As a person who enjoys C++, I love strict types 😂
+
+**Link to work:** [JavaScript Functions and Scope – a Beginner's Guide](https://www.freecodecamp.org/news/javascript-functions-and-scope/)
+
 ### Day 0: September 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
@@ -319,5 +328,4 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
-
 
