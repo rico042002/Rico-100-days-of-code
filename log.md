@@ -312,7 +312,6 @@
 **Link to work:** [Destructuring in JavaScript – How to Destructure Arrays and Objects](https://www.freecodecamp.org/news/destructuring-patterns-javascript-arrays-and-objects/)
 
 ### Day 37: September 11, 2023 
-##### (delete me or comment me out)
 
 **Today's Progress**: Started Functions & Scope section, learned about functions, parameters, arguments, global/local/block level scope. 
 
