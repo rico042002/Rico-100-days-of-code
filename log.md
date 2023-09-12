@@ -313,7 +313,7 @@
 
 ### Day 37: September 11, 2023 
 
-**Today's Progress**: Started Functions & Scope section, learned about functions, parameters, arguments, global/local/block level scope. 
+**Today's Progress**: Started Functions & Scope section, learned about functions, parameters, arguments, global/local/function/block level scope. 
 
 **Thoughts:** I knew I hated the var keyword! I used to have a hard time understanding why my variables would pass and not pass arguments when I originally tried to finish FreeCodeCamp DSA section! It actually used to drive me crazy on why my functions would not work correctly, now years later I found out about how funny it is on the scope and why it was replaced with let and const. As a person who enjoys C++, I love strict types 😂
 
