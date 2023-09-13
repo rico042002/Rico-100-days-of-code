@@ -319,6 +319,15 @@
 
 **Link to work:** [JavaScript Functions and Scope – a Beginner's Guide](https://www.freecodecamp.org/news/javascript-functions-and-scope/)
 
+### Day 38: September 12, 2023
+
+**Today's Progress**: Went over Nested Scope, Function Declaration VS. Function Expression, and how IIFE functions work. Solved the first Challenge. Two more to do tomorrow. 
+
+**Thoughts:** I actually had fun today, even though I wasn't feeling it because today has been busy, I still made myself sit down and start. Even though I felt like the hour was going to take forever, before I knew it I was taking good notes and learning cool stuff. This course has so much value it's unreal, Brad should really consider starting an online boot camp or something because he knows what he is doing.
+
+**Link to work:** [JavaScript Functions and Scope – a Beginner's Guide](https://www.freecodecamp.org/news/javascript-functions-and-scope/)
+
+
 ### Day 0: September 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
