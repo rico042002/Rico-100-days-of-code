@@ -328,6 +328,16 @@
 **Link to work:** [JavaScript Functions and Scope – a Beginner's Guide](https://www.freecodecamp.org/news/javascript-functions-and-scope/)
 
 
+### Day 39: September 13, 2023
+##### (Wife Birthday ♍🎂)
+
+**Today's Progress**: Finished all three Function Challenges without looking at the solution! 
+
+**Thoughts:** I'm VERY proud of myself, I usually can't solve algorithm challenges. They used to stomp me every time, but this course is like putting years of reading JS syntax I've learned to good use. My answers were NOTHING like Brad's but they were still 100% correct, and that's what I LOVE about programming. There can be multiple solutions to the same problem. Each with its own strengths and takeaways. I'm definitely not missing any days anytime soon, I wanna get the certificate for this course because I definitely earned it this time 😊
+
+**Link to work:** [JavaScript Functions Tutorial – IIFE, Function Parameters, and Code Blocks Explained](https://www.freecodecamp.org/news/javascript-function-iife-parameters-code-blocks-explained/)
+
+
 ### Day 0: September 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
