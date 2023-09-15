@@ -327,7 +327,6 @@
 
 **Link to work:** [JavaScript Functions and Scope – a Beginner's Guide](https://www.freecodecamp.org/news/javascript-functions-and-scope/)
 
-
 ### Day 39: September 13, 2023
 ##### (Wife Birthday ♍🎂)
 
@@ -337,6 +336,13 @@
 
 **Link to work:** [JavaScript Functions Tutorial – IIFE, Function Parameters, and Code Blocks Explained](https://www.freecodecamp.org/news/javascript-function-iife-parameters-code-blocks-explained/)
 
+### Day 40: September 14, 2023 
+
+**Today's Progress**: Watched Brad's solutions to the function challenges. Learned about Execution Context - The Memory Creation Phase/Execution Phase.
+
+**Thoughts:** Mostly took notes today. Learning more of what goes on behind the scenes of JavaScript. It makes me think about that Udemy Course "JavaScript: Understanding The Weird Parts". I was gifted this course almost 3 freaking years ago and still haven't done it. I'll get it done eventually, but I'm loving learning all this cool stuff about JS. And I know I have been putting links to FreeCodeCamp articles, these relate to the subject at hand and are good buffers for my learning.
+
+**Link to work:** [JavaScript Execution Context – How JS Works Behind the Scenes](https://www.freecodecamp.org/news/how-javascript-works-behind-the-scene-javascript-execution-context/)
 
 ### Day 0: September 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
