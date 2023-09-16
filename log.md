@@ -344,6 +344,14 @@
 
 **Link to work:** [JavaScript Execution Context – How JS Works Behind the Scenes](https://www.freecodecamp.org/news/how-javascript-works-behind-the-scene-javascript-execution-context/)
 
+### Day 41: September 15, 2023
+
+**Today's Progress**: Completed Function & Scope section, started Logic & Control Flow. Learned about the Call Stack and If statements. 
+
+**Thoughts:** Took some notes on the Call Stack, found out I can't screenshot images on Udemy, which sucks because it's hard drawing out all the charts and visual information I see. It will be fine though, I can always come back to it if I need the information in the future. Had a refresher on If statements. I'm probably going to finish the slot machine build this weekend after I take my Psychology Exam. 
+
+**Link to work:** [JavaScript If-Else and If-Then – JS Conditional Statements](https://www.freecodecamp.org/news/javascript-if-else-and-if-then-js-conditional-statements/)
+
 ### Day 0: September 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
@@ -352,4 +360,3 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
-
