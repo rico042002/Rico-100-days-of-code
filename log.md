@@ -352,6 +352,16 @@
 
 **Link to work:** [JavaScript If-Else and If-Then – JS Conditional Statements](https://www.freecodecamp.org/news/javascript-if-else-and-if-then-js-conditional-statements/)
 
+### Day 42: September 16, 2023 
+![Week 5](https://github.com/rico042002/Rico-100-days-of-code/blob/master/img/week6.gif?raw=true)
+
+**Today's Progress**: Went over Switch statements, passed the Calculator Challenge, and learned about Truthy and Falsy values.
+
+**Thoughts:** The time really flies by in this course, I guess you have a good time when you're enjoying learning. Got an 88 on my first Psychology Exam, my average in the class is 95. I'm doing good on both fronts and I plan on keeping it up.
+
+**Link to work:** [JavaScript if Statements, Equality and Truthy/Falsy – Explained with Examples](https://www.freecodecamp.org/news/javascript-if-statement-equality-and-truthy-falsy/)<br>
+**Link to work:** [JavaScript Switch Statement – With JS Switch Case Example Code](https://www.freecodecamp.org/news/javascript-switch-statement-with-js-switch-case-example-code/)
+
 ### Day 0: September 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
