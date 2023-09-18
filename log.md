@@ -362,6 +362,14 @@
 **Link to work:** [JavaScript if Statements, Equality and Truthy/Falsy – Explained with Examples](https://www.freecodecamp.org/news/javascript-if-statement-equality-and-truthy-falsy/)<br>
 **Link to work:** [JavaScript Switch Statement – With JS Switch Case Example Code](https://www.freecodecamp.org/news/javascript-switch-statement-with-js-switch-case-example-code/)
 
+### Day 43: September 17, 2023 
+
+**Today's Progress**: Finished Logic & Control Flow section, started Loops, Iteration & Array Methods. Learned about Logical Assignment/Operators, Ternary Operator, and For Loops. 
+
+**Thoughts:** Today was kind of sluggish, mostly because I've been busy this weekend. Still got some psychology homework due tomorrow. Decided to take care of it tomorrow afternoon. I need to start coding early in the day so it doesn't conflict with my schedule, but for the biggest part, I've been a night coder 🦉😭
+
+**Link to work:** [JavaScript Loops Explained: For Loop, While Loop, Do...while Loop, and More](https://www.freecodecamp.org/news/javascript-loops-explained-for-loop-for/)
+
 ### Day 0: September 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
