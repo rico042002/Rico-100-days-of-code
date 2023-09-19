@@ -370,6 +370,14 @@
 
 **Link to work:** [JavaScript Loops Explained: For Loop, While Loop, Do...while Loop, and More](https://www.freecodecamp.org/news/javascript-loops-explained-for-loop-for/)
 
+### Day 44: September 18, 2023 
+
+**Today's Progress**: Completed the FizzBuzz Challenge! Mostly went over loops today, While/Do-While Loops, Break and continue statements and the For-Of Loop
+
+**Thoughts:** The first time I saw the FizzBuzz challenge was in the book "Eloquent Javascript", which was like five years ago. Back then I didn't have half the mind to solve it. Books and courses back then used to teach you the basics of conditionals and barely cover iteration and expect you to be able to print out a triangle with a nested for loop or do the fizz buzz challenge. These days I'm able to break problems down into pieces and solve them little by little. I still need to make a website though! It's been too many days! But between class and life, I've been super busy, I'll get to it. 
+
+**Link to work:** [JavaScript Loops Explained: For Loop, While Loop, Do...while Loop, and More](https://www.freecodecamp.org/news/javascript-loops-explained-for-loop-for/)
+
 ### Day 0: September 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
