@@ -378,6 +378,15 @@
 
 **Link to work:** [JavaScript Loops Explained: For Loop, While Loop, Do...while Loop, and More](https://www.freecodecamp.org/news/javascript-loops-explained-for-loop-for/)
 
+### Day 45: September 19, 2023 
+
+**Today's Progress**: Learned the basics of Higher Order Methods, .forEach(), .filter(), also solved a .filter() challenge that was given during the lesson.  
+
+**Thoughts:** Lost track of time coding today! The hour was over before I knew it. It started off slow but I was having fun before I knew it. Higher-order methods are powerful, so I'm making sure I take plenty of notes in the sandbox. 
+
+**Link to work:** [Array.prototype.forEach()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+**Link to work:** [Array.prototype.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+
 ### Day 0: September 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
