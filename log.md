@@ -384,7 +384,7 @@
 
 **Thoughts:** Lost track of time coding today! The hour was over before I knew it. It started off slow but I was having fun before I knew it. Higher-order methods are powerful, so I'm making sure I take plenty of notes in the sandbox. 
 
-**Link to work:** [Array.prototype.forEach()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+**Link to work:** [Array.prototype.forEach()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)<br>
 **Link to work:** [Array.prototype.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 
 ### Day 0: September 0, 2023 EXAMPLE
