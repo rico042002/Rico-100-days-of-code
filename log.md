@@ -387,6 +387,16 @@
 **Link to work:** [Array.prototype.forEach()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)<br>
 **Link to work:** [Array.prototype.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 
+### Day 46: September 20, 2023 
+
+**Today's Progress**: Continued learning about Higher Order Methods, .filter(), .map(), .reduce()
+
+**Thoughts:** Making it to the complicated subjects now so I'm being sure I keep notes and test myself at every challenge. He throws in some short in-course challenges to complete a task before he does while pausing the video. I used to skip challenges like that but now I find myself pausing and trying to figure it out on my own which seems to help with the learning process. .map() is powerful as hell, I don't know if I'm correct in believing that it coerces types. I saw it turn an object into an array and vice versa. 
+
+**Link to work:** [Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)<br>
+**Link to work:** [Array.prototype.reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
+
+
 ### Day 0: September 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
@@ -395,3 +405,4 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
+
