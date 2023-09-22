@@ -396,6 +396,13 @@
 **Link to work:** [Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)<br>
 **Link to work:** [Array.prototype.reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
 
+### Day 47: September 21, 2023 
+
+**Today's Progress**: Finished .reduce() lesson and completed all 3 Array Method Challenges successfully! 
+
+**Thoughts:** I had a ball today, I really start to look forward to the challenges and the opportunity to solve a problem on my own. Yes I do look back at my notes but that's it, I had to ask google how to check to see if a number was negative but it was a simple (if number is > 0) statement. I'm learning so much from this course. Actually chaining .filter and .map together and understanding everything that was happening is a new feeling to me! I usually don't know what's going on behind the scenes with JS but I have gained knowledge from this course and I'm loving it and can't wait to check out his DSA course.
+
+**Link to work:** [Array.prototype.reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
 
 ### Day 0: September 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
