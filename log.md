@@ -405,6 +405,14 @@
 **Link to work:** [How to check if a number is negative?](https://stackoverflow.com/questions/3571717/how-to-check-if-a-number-is-negative)<br>
 **Link to work:** [JavaScript: Capitalize the first letter](https://flexiple.com/javascript/javascript-capitalize-first-letter)
 
+### Day 48: September 22, 2023 
+
+**Today's Progress**: Completed Iteration & Array Methods section, started DOM Section.
+
+**Thoughts:** Started Document Object Model section. Getting through the course at a good pace. Found an awesome DOM Visualizer after seeing a chart in the course. 
+
+**Link to work:** [DOM Visualizer](https://bioub.github.io/dom-visualizer/)
+
 ### Day 0: September 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
