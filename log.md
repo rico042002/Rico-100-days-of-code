@@ -353,7 +353,7 @@
 **Link to work:** [JavaScript If-Else and If-Then – JS Conditional Statements](https://www.freecodecamp.org/news/javascript-if-else-and-if-then-js-conditional-statements/)
 
 ### Day 42: September 16, 2023 
-![Week 5](https://github.com/rico042002/Rico-100-days-of-code/blob/master/img/week6.gif?raw=true)
+![Week 6](https://github.com/rico042002/Rico-100-days-of-code/blob/master/img/week6.gif?raw=true)
 
 **Today's Progress**: Went over Switch statements, passed the Calculator Challenge, and learned about Truthy and Falsy values.
 
@@ -410,6 +410,15 @@
 **Today's Progress**: Completed Iteration & Array Methods section, started DOM Section.
 
 **Thoughts:** Started Document Object Model section. Getting through the course at a good pace. Found an awesome DOM Visualizer after seeing a chart in the course. 
+
+**Link to work:** [DOM Visualizer](https://bioub.github.io/dom-visualizer/)
+
+### Day 49: September 23, 2023
+![Week 7](https://github.com/rico042002/Rico-100-days-of-code/blob/master/img/week7.gif?raw=true)
+
+**Today's Progress**: Learned about DOM Methods and Single Element Selectors
+
+**Thoughts:** Learning how to traverse the DOM and how to select elements and make them dynamic. Like how to make simple changes to the page like color and text without CSS
 
 **Link to work:** [DOM Visualizer](https://bioub.github.io/dom-visualizer/)
 
