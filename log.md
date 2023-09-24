@@ -422,6 +422,16 @@
 
 **Link to work:** [DOM Visualizer](https://bioub.github.io/dom-visualizer/)
 
+### Day 50: September 0, 2023 
+
+**Today's Progress**: Multiple Element Selectors, Traversing the DOM, Node Types and Relationships
+
+**Thoughts:** Had to take plenty of notes today, didn't mind though. Made an AI-powered chart on Notion of the different Node Types, which was really cool. Time flies by when you're having fun! And I'm halfway there! 
+
+![chart](https://github.com/rico042002/Rico-100-days-of-code/blob/master/img/chart.pdf?raw=true)
+**Link to work:** [Understanding the DOM Tree and Nodes](https://www.alibabacloud.com/blog/understanding-the-dom-tree-and-nodes_596231)<br>
+**Link to work:** [Element nodeType values](http://www.javascriptkit.com/domref/nodetype.shtml)
+
 ### Day 0: September 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
