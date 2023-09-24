@@ -428,7 +428,23 @@
 
 **Thoughts:** Had to take plenty of notes today, didn't mind though. Made an AI-powered chart on Notion of the different Node Types, which was really cool. Time flies by when you're having fun! And I'm halfway there! 
 
-![chart](https://github.com/rico042002/Rico-100-days-of-code/blob/master/img/chart.pdf?raw=true)
+# JavaScript Node Types
+
+| Node Type | Description | Children |
+| --- | --- | --- |
+| 1 | Element | Element nodes, Text nodes, Comment nodes, Processing Instruction nodes, CDATA nodes, Entity Reference nodes |
+| 2 | Attribute | Text nodes, EntityReference |
+| 3 | Text | None  |
+| 4 | CDATA | None |
+| 5 | Entity | Element nodes, Processing Instruction nodes, Comment nodes, Text nodes, CDATA nodes, Entity Reference nodes |
+| 6 | Entity Reference | Element nodes, Processing Instruction nodes, Comment nodes, Text nodes, CDATA nodes, Entity Reference nodes |
+| 7 | Processing Instruction | None |
+| 8 | Comment | None  |
+| 9 | Document | Element nodes, Processing Instruction nodes, Comment nodes, Document Type nodes, Document Fragment nodes |
+| 10 | Document Type | None |
+| 11 | Document Fragment | Element nodes, Processing Instruction nodes, Comment nodes, Text nodes, CDATA nodes, Entity Reference nodes |
+| 12 | Notation | None |
+
 **Link to work:** [Understanding the DOM Tree and Nodes](https://www.alibabacloud.com/blog/understanding-the-dom-tree-and-nodes_596231)<br>
 **Link to work:** [Element nodeType values](http://www.javascriptkit.com/domref/nodetype.shtml)
 
