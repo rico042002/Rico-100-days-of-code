@@ -422,7 +422,7 @@
 
 **Link to work:** [DOM Visualizer](https://bioub.github.io/dom-visualizer/)
 
-### Day 50: September 0, 2023 
+### Day 50: September 24, 2023 
 
 **Today's Progress**: Multiple Element Selectors, Traversing the DOM, Node Types and Relationships
 
