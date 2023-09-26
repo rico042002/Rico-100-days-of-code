@@ -448,6 +448,14 @@
 **Link to work:** [Understanding the DOM Tree and Nodes](https://www.alibabacloud.com/blog/understanding-the-dom-tree-and-nodes_596231)<br>
 **Link to work:** [Element nodeType values](http://www.javascriptkit.com/domref/nodetype.shtml)
 
+### Day 51: September 25, 2023 
+
+**Today's Progress**: Traversing Nodes in the DOM, learned how to create elements from JavaScript and the difference between innerHTML vs. createElement
+
+**Thoughts:** Today's session started kind of sluggish but picked up 30mins in. Was issued a challenge to append elements to the page but didn't realize it would require a function because I've been working with the DOM for so many days. I'm considering working on FreeCodeCamps JS track in my free time to stay sharp on writing functions. 
+
+**Link to work:** [Traversing the DOM Is Just Like Creating Your Personal Schedule](https://www.freecodecamp.org/news/traversing-the-dom-is-just-like-creating-your-personal-schedule-30dacb1bebf0/)
+
 ### Day 0: September 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
