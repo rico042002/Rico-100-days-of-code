@@ -462,7 +462,7 @@
 
 **Thoughts:** Got defeated by my first challenge to create a custom insertAfter() function using insertBefore(). The answer was easier than I thought so I feel like I don't really understand the DOM, Iv'e went over a lot of methods, a lot of them achieving the same behavior so I do get a little lost sometimes. I feel like I need to do a refresher or look at some YouTube videos on how to traverse the DOM and create functions to do so. 
 
-**Link to work:** [Node: insertBefore() method](https://developer.mozilla.org/en-US/docs/Web/API/Node/insertBefore)
+**Link to work:** [Node: insertBefore() method](https://developer.mozilla.org/en-US/docs/Web/API/Node/insertBefore)<br>
 **Link to work:** [Element: insertAdjacentElement() method](https://developer.mozilla.org/en-US/docs/Web/API/Node/insertAdjacentElement)
 
 ### Day 0: September 0, 2023 EXAMPLE
