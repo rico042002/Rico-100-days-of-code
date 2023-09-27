@@ -456,6 +456,15 @@
 
 **Link to work:** [Traversing the DOM Is Just Like Creating Your Personal Schedule](https://www.freecodecamp.org/news/traversing-the-dom-is-just-like-creating-your-personal-schedule-30dacb1bebf0/)
 
+### Day 52: September 26, 2023 
+
+**Today's Progress**: Practiced on inserting and replacing elements in the DOM with insertBefore() and insertAdjacent() methods
+
+**Thoughts:** Got defeated by my first challenge to create a custom insertAfter() function using insertBefore(). The answer was easier than I thought so I feel like I don't really understand the DOM, Iv'e went over a lot of methods, a lot of them achieving the same behavior so I do get a little lost sometimes. I feel like I need to do a refresher or look at some YouTube videos on how to traverse the DOM and create functions to do so. 
+
+**Link to work:** [Node: insertBefore() method](https://developer.mozilla.org/en-US/docs/Web/API/Node/insertBefore)
+**Link to work:** [Element: insertAdjacentElement() method](https://developer.mozilla.org/en-US/docs/Web/API/Node/insertAdjacentElement)
+
 ### Day 0: September 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
