@@ -465,6 +465,15 @@
 **Link to work:** [Node: insertBefore() method](https://developer.mozilla.org/en-US/docs/Web/API/Node/insertBefore)<br>
 **Link to work:** [Element: insertAdjacentElement() method](https://developer.mozilla.org/en-US/docs/Web/API/Node/insertAdjacentElement)
 
+### Day 53: September 27, 2023
+
+**Today's Progress**: Learned about .removeChild(), .remove()/.add(), and the .classList
+
+**Thoughts:** Finished with the DOM section, on to Events now!!
+
+**Link to work:** [Node: removeChild() method](https://developer.mozilla.org/en-US/docs/Web/API/Node/removeChild)<br>
+**Link to work:** [Element: classList property](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList)
+
 ### Day 0: September 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
