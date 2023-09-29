@@ -474,6 +474,14 @@
 **Link to work:** [Node: removeChild() method](https://developer.mozilla.org/en-US/docs/Web/API/Node/removeChild)<br>
 **Link to work:** [Element: classList property](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList)
 
+### Day 54: September 28, 2023 
+
+**Today's Progress**: Started Event Listener section, passed first Event Listener Challenge.
+
+**Thoughts:** Had fun today, the hour flew by fast AF. Took me like 15min to figure out the answer to the challenge, it was simple and complicated at the same time. But I have done enough tutorials in the past to at least know how to make one element in Javascript disappear on click. Seeing everyone getting awesome dev jobs and getting to live their dreams is inspiring me to work harder to achieve my goals. Hopefully after a few rounds of 100DaysOfCode, I have enough projects to at least freelance a little bit. 
+
+**Link to work:** [Event](https://developer.mozilla.org/en-US/docs/Web/API/Event)
+
 ### Day 0: September 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
