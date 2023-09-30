@@ -482,7 +482,7 @@
 
 **Link to work:** [Event](https://developer.mozilla.org/en-US/docs/Web/API/Event)
 
-### Day 53: September 29, 2023 
+### Day 55: September 29, 2023 
 
 **Today's Progress**: Went over Mouse Events and the Event Object
 
