@@ -482,6 +482,14 @@
 
 **Link to work:** [Event](https://developer.mozilla.org/en-US/docs/Web/API/Event)
 
+### Day 53: September 29, 2023 
+
+**Today's Progress**: Went over Mouse Events and the Event Object
+
+**Thoughts:** Learning about how to make the page more dynamic, and how events relate to the elements in the DOM. 
+
+**Link to work:** [Browser Events Explained in Plain English](https://www.freecodecamp.org/news/javascript-events-explained-in-simple-english/)
+
 ### Day 0: September 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
@@ -490,4 +498,3 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
-
