@@ -490,6 +490,16 @@
 
 **Link to work:** [Browser Events Explained in Plain English](https://www.freecodecamp.org/news/javascript-events-explained-in-simple-english/)
 
+### Day 56: September 30, 2023  
+##### (Daughter's Birthday 🦄)  
+![Week 8](https://github.com/rico042002/Rico-100-days-of-code/blob/master/img/week8.gif?raw=true)
+
+**Today's Progress**: Learned about Keyboard Events and Codes
+
+**Thoughts:** Today's lesson was fun and made me think about how powerful JavaScript is. I used to have a keystroke logger on a desktop I owned when I was younger. It made me wonder If I could re-create the program. It would actually log everything typed that day and put it inside a .txt file at the end of the day. Also started a mini-project and will be done with it by tomorrow. 
+
+**Link to work:** [Table of all Key Codes](https://www.toptal.com/developers/keycode/table)
+
 ### Day 0: September 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
