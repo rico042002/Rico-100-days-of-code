@@ -500,7 +500,15 @@
 
 **Link to work:** [Table of all Key Codes](https://www.toptal.com/developers/keycode/table)
 
-### Day 0: September 0, 2023 EXAMPLE
+### Day 57: October 2, 2023 
+
+**Today's Progress**: Finished Keycode mini project, and went over input events. 
+
+**Thoughts:** Yesterday got a little weird due to my work schedule and lack of personal scheduling, and I ended up forgetting to code. Today's lesson was interesting and I learned a lot about event handlers and the way keycodes and input events work. 
+
+**Link to work:** [Table of all Key Codes](https://www.toptal.com/developers/keycode/table)
+
+### Day 0: October 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, and worked on canvas functionality for the app.
