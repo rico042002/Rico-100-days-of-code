@@ -508,6 +508,14 @@
 
 **Link to work:** [Table of all Key Codes](https://www.toptal.com/developers/keycode/table)
 
+### Day 58: October 3, 2023 
+
+**Today's Progress**: Finished Events Section, learned about Event Bubbling, Event Delegation and Window Events
+
+**Thoughts:** Today wasn't too bad, seemed like time was going a little slower. After all, I have learned I still feel like I need to read a book on JavaScript and test myself with Edabit or a website like it. It's hard to find beginner-level algorithm challenges, and Code Wars just has user-made-up questions so they are hit-and-miss on quality. I'll probably do FreeCodeCamp since I finished the Responsive Web Design section in 2022, it's time for a new one!
+
+**Link to work:** [Window](https://developer.mozilla.org/en-US/docs/Web/API/Window)
+
 ### Day 0: October 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
@@ -516,3 +524,4 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
+
