@@ -516,6 +516,14 @@
 
 **Link to work:** [Window](https://developer.mozilla.org/en-US/docs/Web/API/Window)
 
+### Day 59: October 4, 2023 
+
+**Today's Progress**: Started Shopping List project, basically a Git and Github crash course.
+
+**Thoughts:** Things started out slow, but picked up in the middle. I was worried about how long it seemed like and before I knew it I was learning about SSH keys and mardown files. I need to catch up on some rest and get ready to buckle down and study some more!
+
+**Link to work:** [Shopping-List Repo](https://github.com/rico042002/shopping-list)
+
 ### Day 0: October 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
@@ -524,4 +532,5 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
+
 
