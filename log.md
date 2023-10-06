@@ -524,6 +524,15 @@
 
 **Link to work:** [Shopping-List Repo](https://github.com/rico042002/shopping-list)
 
+### Day 0: October 5, 2023 
+
+**Today's Progress**: Continued Shopping list project, learned how to filter through text with .indexOf and .forEach methods
+
+**Thoughts:** When I first saw the filter through text functionality in the project I was 100% sure regEx was being used but it was pure vanilla JS! So much has changed in JavaScript in such a short time 🤦🏿‍♂️ I'm going to continue my journey down this path of learning, it's not going to be an easy task to get a job in tech, but I'm down for the fight!
+
+**Link to work:** [Shopping-List Repo](https://github.com/rico042002/shopping-list)
+**Link to work:** [Arrow function expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+
 ### Day 0: October 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
