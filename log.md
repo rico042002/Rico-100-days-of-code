@@ -524,7 +524,7 @@
 
 **Link to work:** [Shopping-List Repo](https://github.com/rico042002/shopping-list)
 
-### Day 0: October 5, 2023 
+### Day 60: October 5, 2023 
 
 **Today's Progress**: Continued Shopping list project, learned how to filter through text with .indexOf and .forEach methods
 
