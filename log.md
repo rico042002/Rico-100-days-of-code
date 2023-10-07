@@ -533,6 +533,14 @@
 **Link to work:** [Shopping-List Repo](https://github.com/rico042002/shopping-list) <br>
 **Link to work:** [Arrow function expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 
+### Day 61: October 6, 2023 
+
+**Today's Progress**: Learned about localStorage and sessionStorage, how to get and use it with JSON.parse and .stringify
+
+**Thoughts:** Learning a lot about how to structure an app and make useful functions. Also the D-R-Y method of clean code.
+
+**Link to work:** [How to Store Data in Web Browser Storage - localStorage and sessionStorage Explained](https://www.freecodecamp.org/news/how-to-store-data-in-web-browser-storage-localstorage-and-session-storage-explained/)
+
 ### Day 0: October 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
