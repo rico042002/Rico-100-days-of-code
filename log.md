@@ -541,6 +541,15 @@
 
 **Link to work:** [How to Store Data in Web Browser Storage - localStorage and sessionStorage Explained](https://www.freecodecamp.org/news/how-to-store-data-in-web-browser-storage-localstorage-and-session-storage-explained/)
 
+### Day 62: October 7, 2023 
+
+**Today's Progress**: Completed Shopping List App, deployed to Netlify, started Asynchronous section. 
+
+**Thoughts:** Got plenty of quality lessons in this build, about local storage, functions, UI state, and how to build a app with vanilla JS. It may not be a fancy framework or library but I'm still having loads of fun with this course. I can't wait to code for a living! 
+
+**Link to work:** [Shopping-List App](https://rico-shopping-list.netlify.app/)[![Netlify Status](https://api.netlify.com/api/v1/badges/d0b28b8d-a9e0-486b-8a00-c295098ea9db/deploy-status)](https://app.netlify.com/sites/rico-shopping-list/deploys)<br>
+**Link to work:** [Javascript Event Loop Explained](https://www.webdevolution.com/blog/Javascript-Event-Loop-Explained)
+
 ### Day 0: October 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
