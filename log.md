@@ -550,6 +550,17 @@
 **Link to work:** [Shopping-List App](https://rico-shopping-list.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/d0b28b8d-a9e0-486b-8a00-c295098ea9db/deploy-status)](https://app.netlify.com/sites/rico-shopping-list/deploys)<br>
 **Link to work:** [Javascript Event Loop Explained](https://www.webdevolution.com/blog/Javascript-Event-Loop-Explained)
 
+### Day 63: October 8, 2023 
+![Week 9](https://github.com/rico042002/Rico-100-days-of-code/blob/master/img/week9.gif?raw=true)
+
+**Today's Progress**: Learning the beginning of Asynchronous Programming, how setInterval/clearInterval setTimeout/clearTimeout works. 
+
+**Thoughts:** Found an interesting blog post with cool animations to explain the Event Loop and how functions are moved to the task queue. I can't believe it's week 9 already! I'm making good time on the course and should be done in a couple of more weeks. Then it's on to 50 Days 50 Projects. I have gotten a lot of work done but I still want to do a little bit more, I've considered using FreeCodeCamp in my free time to quiz myself on JS. 
+
+**Link to work:** [setInterval() global function](https://developer.mozilla.org/en-US/docs/Web/API/setInterval)<br>
+**Link to work:** [setTimeout() global function](https://developer.mozilla.org/en-US/docs/Web/API/setTimeout)<br>
+**Link to work:** [JavaScript Event Loop And Call Stack Explained](https://felixgerschau.com/javascript-event-loop-call-stack/)
+
 ### Day 0: October 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
@@ -558,5 +569,6 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
+
 
 
