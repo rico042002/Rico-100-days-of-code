@@ -561,7 +561,7 @@
 **Link to work:** [setTimeout() global function](https://developer.mozilla.org/en-US/docs/Web/API/setTimeout)<br>
 **Link to work:** [JavaScript Event Loop And Call Stack Explained](https://felixgerschau.com/javascript-event-loop-call-stack/)
 
-### Day 0: October 9, 2023 
+### Day 64: October 9, 2023 
 
 **Today's Progress**: HTTP Request Crash Course, Learned about AJAX, HTTP Status Codes, and XMLHttpRequest Object.
 
