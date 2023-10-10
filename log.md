@@ -561,6 +561,14 @@
 **Link to work:** [setTimeout() global function](https://developer.mozilla.org/en-US/docs/Web/API/setTimeout)<br>
 **Link to work:** [JavaScript Event Loop And Call Stack Explained](https://felixgerschau.com/javascript-event-loop-call-stack/)
 
+### Day 0: October 9, 2023 
+
+**Today's Progress**: HTTP Request Crash Course, Learned about AJAX, HTTP Status Codes, and XMLHttpRequest Object.
+
+**Thoughts:** I'm 40% done with the course, I'm probably not going to make it to iCodeThis in this round of 100DaysOfCode, so I'm going to continue to do fun side tutorials and get some commits and builds in during my free time. I don't want to get rusty at building webpages while I'm focusing on JavaScript. 
+
+**Link to work:** [Most popular ways to make an HTTP request in JavaScript](https://www.freecodecamp.org/news/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa/)
+
 ### Day 0: October 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
@@ -569,6 +577,4 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
-
-
 
