@@ -569,6 +569,15 @@
 
 **Link to work:** [Most popular ways to make an HTTP request in JavaScript](https://www.freecodecamp.org/news/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa/)
 
+### Day 65: October 10, 2023 
+
+**Today's Progress**: Finished AJAX/XHR lesson, and passed the Joke Generator Challenge!
+
+**Thoughts:** Even though today was very stressful, I ended up finding flow in coding. I enjoy a good tutorial as much as the next programmer but these days I enjoy throwing on some cool loFi music and creating something. I actually did a random quote generator years ago with JS and jQuery! So this is my first time using vanilla JS to do this. It was actually way less code. Just happy I was able to solve the challenge without looking at the solution.  
+
+**Link to work:** [Chuck Norris Joke Generator](https://jokes-chucknorris.netlify.app/)<br>
+**Link to work:** [Lord Of The Rings - Random Quote Machine](https://codepen.io/rico042002/full/PWPgRa)
+
 ### Day 0: October 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
