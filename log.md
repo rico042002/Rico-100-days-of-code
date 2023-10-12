@@ -578,6 +578,14 @@
 **Link to work:** [Chuck Norris Joke Generator](https://jokes-chucknorris.netlify.app/)<br>
 **Link to work:** [Lord Of The Rings - Random Quote Machine](https://codepen.io/rico042002/full/PWPgRa)
 
+### Day 66: October 11, 2023 
+
+**Today's Progress**: Learned about Callback Hell and Promises. 
+
+**Thoughts:** Today's lesson was interesting. Learning about Promises makes me want to understand the way networks and servers handle data on the backend. I got the code for my old github pages portfolio and I'm refactoring it to present it as my new main one. Hopefully I can get some awesome projects under my belt by the next round of 100days. 
+
+**Link to work:** [Mastering Promises in JavaScript: A Deep Dive](https://alishabhale.hashnode.dev/mastering-promises-in-javascript-a-deep-dive)
+
 ### Day 0: October 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
