@@ -586,6 +586,15 @@
 
 **Link to work:** [Mastering Promises in JavaScript: A Deep Dive](https://alishabhale.hashnode.dev/mastering-promises-in-javascript-a-deep-dive)
 
+### Day 67: October 12, 2023 
+
+**Today's Progress**: Went over Promises more, learned about Promise.all and the difference between Callbacks and Promises, also finished Asynchronous JavaScript section. 
+
+**Thoughts:** I'm learning some core concepts that I have heard thrown around for some years. This is my first time learning about Async JS and promises. I've never been good with APIs or built projects that even required them. I feel like I got some good key takeaway notes and I definitely have to commit my sandbox so I can have the JS notes, no matter which computer I'm using. 
+
+**Link to work:** [Promise.all()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/all)<br>
+**Link to work:** [How to Use JavaScript Promises – Callbacks, Async/Await, and Promise Methods Explained](https://www.freecodecamp.org/news/javascript-promises-async-await-and-promise-methods/)
+
 ### Day 0: October 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
@@ -594,4 +603,3 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
-
