@@ -595,6 +595,14 @@
 **Link to work:** [Promise.all()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/all)<br>
 **Link to work:** [How to Use JavaScript Promises – Callbacks, Async/Await, and Promise Methods Explained](https://www.freecodecamp.org/news/javascript-promises-async-await-and-promise-methods/)
 
+### Day 68: October 13, 2023 🐈‍⬛
+
+**Today's Progress**: Learned about the Fetch API, and made a small project fetching data from a random user API
+
+**Thoughts:** I haven't worked with an API in a while and it feels good to be getting some projects under my belt all while learning and having fun. This course makes me think about the weird parts of JS and I want to finish my course on it soon. I have plenty of coding and math to do in the coming year, with #100devs coming next year and I have to save to take a class or two in the Spring semester. Speaking of which I got an A+ in Gen. Psychology, so I'm one step closer to my computer science degree!
+
+**Link to work:** [A cheat sheet for JavaScript's fetch API](https://realpythonproject.hashnode.dev/a-cheat-sheet-for-javascripts-fetch-api)
+
 ### Day 0: October 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
@@ -603,3 +611,4 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
+
