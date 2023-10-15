@@ -603,6 +603,14 @@
 
 **Link to work:** [A cheat sheet for JavaScript's fetch API](https://realpythonproject.hashnode.dev/a-cheat-sheet-for-javascripts-fetch-api)
 
+### Day 69: October 14, 2023 
+
+**Today's Progress**: Fetch Options - Method, Body, Headers 
+
+**Thoughts:** Today's lesson was pretty straightforward. Learned the other options outside just 'GET' in the fetch API, and mostly worked with 'POST' and headers today.
+
+**Link to work:** [JavaScript Fetch API Tutorial with JS Fetch Post and Header Examples](https://www.freecodecamp.org/news/javascript-fetch-api-tutorial-with-js-fetch-post-and-header-examples/)
+
 ### Day 0: October 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
