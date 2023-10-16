@@ -614,11 +614,23 @@
 ### Day 70: October 15, 2023 
 ![Week 10](https://github.com/rico042002/Rico-100-days-of-code/blob/master/img/week10.gif?raw=true)
 
-**Today's Progress**: Fixed CSS, and worked on canvas functionality for the app.
+**Today's Progress**: Learned more about the Fetch API and how it handles errors, and HTTP Status Codes 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Worked on a few small projects, getting my commits up but It's time for me to work on a personal project and at least have one thing I'm proud of and call my own.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 
+# HTTP Status Codes
+
+| Status Code | Description |
+| --- | --- |
+| 200 | OK |
+| 201 | Created |
+| 204 | No Content |
+| 400 | Bad Request |
+| 401 | Unauthorized |
+| 403 | Forbidden |
+| 404 | Not Found |
+| 500 | Internal Server Error |
 
 ### Day 0: October 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
