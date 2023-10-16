@@ -618,7 +618,7 @@
 
 **Thoughts:** Worked on a few small projects, getting my commits up but It's time for me to work on a personal project and at least have one thing I'm proud of and call my own.
 
-**Link to work:** 
+**Link to work:** [Using the Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 # HTTP Status Codes
 
 | Status Code | Description |
