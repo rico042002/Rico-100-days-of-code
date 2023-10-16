@@ -611,6 +611,15 @@
 
 **Link to work:** [JavaScript Fetch API Tutorial with JS Fetch Post and Header Examples](https://www.freecodecamp.org/news/javascript-fetch-api-tutorial-with-js-fetch-post-and-header-examples/)
 
+### Day 70: October 15, 2023 
+![Week 10](https://github.com/rico042002/Rico-100-days-of-code/blob/master/img/week10.gif?raw=true)
+
+**Today's Progress**: Fixed CSS, and worked on canvas functionality for the app.
+
+**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link to work:** [Calculator App](http://www.example.com)
+
 ### Day 0: October 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
