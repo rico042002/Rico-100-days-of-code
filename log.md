@@ -643,6 +643,15 @@
 **Link to work:** [try...catch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch)<br>
 **Link to work:** [How to Use JavaScript Promises – Callbacks, Async/Await, and Promise Methods Explained](https://www.freecodecamp.org/news/javascript-promises-async-await-and-promise-methods/)
 
+### Day 72: October 17, 2023 
+🚭
+
+**Today's Progress**: The Internet was acting up so I continued the Netflix clone project.
+
+**Thoughts:** Felt good to write some CSS for once in a while 😭 
+
+**Link to work:** [Netflix Clone Repo](https://github.com/rico042002/netflixClone)
+
 ### Day 0: October 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
@@ -651,4 +660,3 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
-
