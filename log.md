@@ -632,6 +632,17 @@
 | 404 | Not Found |
 | 500 | Internal Server Error |
 
+### Day 71: October 16, 2023 
+
+**Today's Progress**: Learned about Async/Await and try/catch statements and how they relate to Promises and the fetch API
+
+**Thoughts:** Time flew by in today's lesson, probably going to push my time up to two hours since I'm only halfway done with the course and I have so much work to do.
+
+**Link to work:** [async function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)<br>
+**Link to work:** [await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await)<br>
+**Link to work:** [try...catch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch)<br>
+**Link to work:** [How to Use JavaScript Promises – Callbacks, Async/Await, and Promise Methods Explained](https://www.freecodecamp.org/news/javascript-promises-async-await-and-promise-methods/)
+
 ### Day 0: October 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
