@@ -657,7 +657,7 @@
 
 **Thoughts:** Decided to use today to finish up the Netflix tutorial. It was a fun CSS/JS-driven project. I'm starting the Flixx app project in the Udemy course tomorrow. 
 
-**Link to work:** [Netflix Clone](https://ricoflix.netlify.app/)
+**Link to work:** [Netflix Clone](https://ricoflix.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/a1431ca2-f54b-4c1e-83d5-d8616509ecfb/deploy-status)](https://app.netlify.com/sites/ricoflix/deploys)
 
 ### Day 0: October 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
