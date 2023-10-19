@@ -644,13 +644,20 @@
 **Link to work:** [How to Use JavaScript Promises – Callbacks, Async/Await, and Promise Methods Explained](https://www.freecodecamp.org/news/javascript-promises-async-await-and-promise-methods/)
 
 ### Day 72: October 17, 2023 
-🚭
 
 **Today's Progress**: The Internet was acting up so I continued the Netflix clone project.
 
 **Thoughts:** Felt good to write some CSS for once in a while 😭 
 
 **Link to work:** [Netflix Clone Repo](https://github.com/rico042002/netflixClone)
+
+### Day 73: October 18, 2023
+
+**Today's Progress**: Finished Netflix clone tutorial!
+
+**Thoughts:** Decided to use today to finish up the Netflix tutorial. It was a fun CSS/JS-driven project. I'm starting the Flixx app project in the Udemy course tomorrow. 
+
+**Link to work:** [Netflix Clone](https://ricoflix.netlify.app/)
 
 ### Day 0: October 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
@@ -660,3 +667,4 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
+
