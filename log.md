@@ -659,6 +659,15 @@
 
 **Link to work:** [Netflix Clone](https://ricoflix.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/a1431ca2-f54b-4c1e-83d5-d8616509ecfb/deploy-status)](https://app.netlify.com/sites/ricoflix/deploys)
 
+### Day 74: October 19, 2023 
+
+**Today's Progress**: Started Movie Database API project
+
+**Thoughts:** Started a new project that uses a movie database API that dynamically fetches information on popular movies and TV Shows, can't wait to see the finished result. I don't know if there will be a mobile version because this app seems to be massive. And if there is not a mobile then this will probably be the first project I put my own spin on to make it better!
+
+**Link to work:** [The Movie Database (TMDB) API](https://developer.themoviedb.org/docs)<br>
+**Link to work:** [Flixx-App Repo](https://github.com/rico042002/flixx-app)
+
 ### Day 0: October 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
@@ -667,4 +676,5 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
+
 
