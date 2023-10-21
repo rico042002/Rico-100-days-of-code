@@ -668,6 +668,14 @@
 **Link to work:** [The Movie Database (TMDB) API](https://developer.themoviedb.org/docs)<br>
 **Link to work:** [Flixx-App Repo](https://github.com/rico042002/flixx-app)
 
+### Day 75: October 20, 2023 
+
+**Today's Progress**: Fetched Data from movie API, connected movie and TV show HTML pages, and dynamically added them with JS
+
+**Thoughts:** Had fun coding today even though today was very stressful. I want to make coding my career and I'm tired of waiting. I've given myself a two-year window to land my first job in tech. I should be able to hit it right on target, in the meantime 100DaysOfCode might turn into 730DaysOfCode until I land a job! 
+
+**Link to work:** [Flixx-App Repo](https://github.com/rico042002/flixx-app)
+
 ### Day 0: October 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
@@ -676,5 +684,4 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
-
 
