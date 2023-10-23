@@ -676,6 +676,14 @@
 
 **Link to work:** [Flixx-App Repo](https://github.com/rico042002/flixx-app)
 
+### Day 76: October 22, 2023 
+
+**Today's Progress**: Continued Movie App build. 
+
+**Thoughts:** Adding the API calls to the rest of the site. Putting in movie details, dates, and reviews. Had a hard time trying to format the date after the API call. going to try to fix it tomorrow. Missed yesterday because I worked 22 hours and literally didn't have time to code, the other two hours were dedicated to sleep, getting dressed, and driving to the second contract Security job I did. 
+
+**Link to work:** [Flixx-App Repo](https://github.com/rico042002/flixx-app)
+
 ### Day 0: October 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
