@@ -684,6 +684,15 @@
 
 **Link to work:** [Flixx-App Repo](https://github.com/rico042002/flixx-app)
 
+### Day 77: October 23, 2023 
+![Week 11](https://github.com/rico042002/Rico-100-days-of-code/blob/master/img/week11.gif?raw=true)
+
+**Today's Progress**: Finished Movie Details page, added date function and background images.
+
+**Thoughts:** I actually created the date function last night when I kept thinking about it. Ended up combining code I learned from StackOverflow with a ChatGPT sample and I had it!  
+
+**Link to work:** [How to Add Commas to Number in JavaScript](https://linuxhint.com/add-commas-number-javascript/)
+
 ### Day 0: October 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
