@@ -700,8 +700,8 @@
 **Thoughts:** Had a little trouble with the date object because I was dynamically adding information to the page with for each and I was trying to set it to do it once on the object so I kept getting an error. Realized I was creating the date object in the wrong place after using ChatGPT. 
 
 **Link to work:**
-# Format API Response
-
+#### Format API Response
+```javascript
 const show = {
 first_air_date: "2023-10-19" // Replace with your API response date
 };
@@ -713,6 +713,7 @@ const date = new Date(show.first_air_date);
 const formattedDate = date.toLocaleDateString();
 
 console.log(formattedDate); // Output: Depends on the browser's locale settings, e.g., "10/19/2023" in US format
+```
 
 ### Day 0: October 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
