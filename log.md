@@ -715,6 +715,14 @@ const formattedDate = date.toLocaleDateString();
 console.log(formattedDate); // Output: Depends on the browser's locale settings, e.g., "10/19/2023" in US format
 ```
 
+### Day 79: October 25, 2023 
+
+**Today's Progress**: Finished adding Swiper.js, made a custom alert function, and started API search functionality. 
+
+**Thoughts:** Today's lessons were not complicated but I still had to write plenty of notes, there are things I'm still finding out about JS. Didn't know you could set a parameter within the function parenthesis, I've actually never seen anyone do it 🤷🏿‍♂️
+
+**Link to work:** [Swiper.js](https://swiperjs.com/)
+
 ### Day 0: October 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
