@@ -723,6 +723,14 @@ console.log(formattedDate); // Output: Depends on the browser's locale settings,
 
 **Link to work:** [Swiper.js](https://swiperjs.com/)
 
+### Day 80: October 26, 2023 
+
+**Today's Progress**: Finished search results functionality, almost done with the project.
+
+**Thoughts:** Still had some issues with the date returns from the API, it formats them DD/MM/YYYY, and .toLocaleDateString isn't enough to switch them up. So I asked ChatGPT like I always do when I get in a bind 🤣 and it showed me I needed to create a custom date function 🤦🏿 I should have created one as many times as I re-did the date change. A simple function would have fixed the problem, but hey you live and learn. It's a process and I'm enjoying it. Tomorrow all I have to do is add pagination to the search results and I'm done with the project!
+
+**Link to work:** [Flixx-App Repo](https://github.com/rico042002/flixx-app)
+
 ### Day 0: October 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
