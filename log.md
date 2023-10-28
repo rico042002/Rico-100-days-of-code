@@ -731,6 +731,14 @@ console.log(formattedDate); // Output: Depends on the browser's locale settings,
 
 **Link to work:** [Flixx-App Repo](https://github.com/rico042002/flixx-app)
 
+### Day 81: October 27, 2023
+
+**Today's Progress**: Finished Flixx App
+
+**Thoughts:** I don't know WTF happened, after I finished the ENTIRE app with over 500 lines of JS, all of a sudden I'm getting a 401 error and it says that my API key is invalid. IDK if it's because I added the site to Netlify or what. I'm also getting an "Uncaught (in promise) TypeError: Cannot read properties of undefined (reading 'forEach')" and I've been using these fucking .forEach the entire time. So I don't know what happened or what semicolon or parenthesis I accidentally deleted today. I'm using a laptop and I tend to scroll and accidentally delete stuff all the time, but I actually copied Brad's code and used my API key and got the same error about the .forEach. So I don't know if I should start the project over and accept the loss or re-do it and see where I went wrong. Coding usually doesn't put me on my bad side, but it's annoying to put so much work into a project just to slip and fall at the finish line. What bothers me the most is even when I use the code that I pushed yesterday it still doesn't work! Even though everything was perfectly fine. I learned a lot from the project and even though I can't show it I still have my code with my notes so there's that. 
+
+**Link to work:** [Flixx-App Repo](https://github.com/rico042002/flixx-app)
+
 ### Day 0: October 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
