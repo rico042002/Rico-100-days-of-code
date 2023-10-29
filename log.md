@@ -739,6 +739,16 @@ console.log(formattedDate); // Output: Depends on the browser's locale settings,
 
 **Link to work:** [Flixx-App Repo](https://github.com/rico042002/flixx-app)
 
+### Day 82: October 28, 2023 
+
+**Today's Progress**: Started Web API section, learned about Geolocation API and Canvas. 
+
+**Thoughts:** Last night after wondering what happened I generated a new Key from the Movie Database API and tried that key with my app then it started working again. So then I re-deployed it on Netlify and it stopped working again! So I'm pretty sure it's some sort of authentication error from publicly exposing my key that keeps it from working. It might be because Netlify is sending the request instead of VScode. I'm going to ask a friend about it soon. Today was kind of slow but I still had fun learning about APIs and using Leaflet.js 
+
+**Link to work:** [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
+**Link to work:** [Leaflet.JS](https://leafletjs.com/)
+**Link to work:** [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+
 ### Day 0: October 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
