@@ -745,8 +745,8 @@ console.log(formattedDate); // Output: Depends on the browser's locale settings,
 
 **Thoughts:** Last night after wondering what happened I generated a new Key from the Movie Database API and tried that key with my app then it started working again. So then I re-deployed it on Netlify and it stopped working again! So I'm pretty sure it's some sort of authentication error from publicly exposing my key that keeps it from working. It might be because Netlify is sending the request instead of VScode. I'm going to ask a friend about it soon. Today was kind of slow but I still had fun learning about APIs and using Leaflet.js 
 
-**Link to work:** [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
-**Link to work:** [Leaflet.JS](https://leafletjs.com/)
+**Link to work:** [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)<br>
+**Link to work:** [Leaflet.JS](https://leafletjs.com/)<br>
 **Link to work:** [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 
 ### Day 0: October 0, 2023 EXAMPLE
