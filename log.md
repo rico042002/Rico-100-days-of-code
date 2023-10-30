@@ -749,6 +749,14 @@ console.log(formattedDate); // Output: Depends on the browser's locale settings,
 **Link to work:** [Leaflet.JS](https://leafletjs.com/)<br>
 **Link to work:** [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 
+### Day 83: October 29, 2023 
+
+**Today's Progress**: Completed Animated Clock project using requestAnimationFrame
+
+**Thoughts:** Today's project was refreshing can't wait to add more to it tomorrow. 
+
+**Link to work:** [Window: requestAnimationFrame() method](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
+
 ### Day 0: October 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
