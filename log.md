@@ -757,6 +757,18 @@ console.log(formattedDate); // Output: Depends on the browser's locale settings,
 
 **Link to work:** [Window: requestAnimationFrame() method](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
 
+### Day 84: October 30, 2023 
+![Week 12](https://github.com/rico042002/Rico-100-days-of-code/blob/master/img/week12.gif?raw=true)
+
+**Today's Progress**: Added color change on canvas functionality for the clock app. Also started the Audio API project.
+
+**Thoughts:** As an old DJ/Rapper and music junkie, I loved today's lesson. The hour flew by before I knew it. The Web Audio API is twice as strong as it used to be when I first learned about it. I can't wait to use it in my own project in the future. 
+
+**Link to work:** [HTMLCanvasElement: toDataURL() method](https://developer.mozilla.org/en-US/docs/Web/API/HTMLCanvasElement/toDataURL)<br>
+**Link to work:** [Using the Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Using_Web_Audio_API)<br>
+**Link to work:** [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)<br>
+**Link to work:** [Jazz up your user interface with web audio](https://www.freecodecamp.org/news/web-audio-for-the-user-interface-1592687f898c/)
+
 ### Day 0: October 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
