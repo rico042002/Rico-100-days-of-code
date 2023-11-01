@@ -769,6 +769,15 @@ console.log(formattedDate); // Output: Depends on the browser's locale settings,
 **Link to work:** [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)<br>
 **Link to work:** [Jazz up your user interface with web audio](https://www.freecodecamp.org/news/web-audio-for-the-user-interface-1592687f898c/)
 
+### Day 85: October 31, 2023 
+##### Happy Halloween 🎃👻🏴‍☠️
+
+**Today's Progress**: Completed Music Player, drum machine, and video player projects.
+
+**Thoughts:** Learned about the Audio and Video API.
+
+**Link to work:** [Video and Audio APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
+
 ### Day 0: October 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
