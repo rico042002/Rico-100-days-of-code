@@ -787,6 +787,14 @@ console.log(formattedDate); // Output: Depends on the browser's locale settings,
 **Link to work:** [Using the Web Animations API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API)<br>
 **Link to work:** [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
 
+### Day 87: November 2, 2023 
+
+**Today's Progress**: Completed Speech Recognition API project and Speech Synthesis API. Finished Web/Browser API section, started Object-Orientated 
+
+**Thoughts:** Enjoyed building today's projects and learning about the available speech and text APIs.
+ 
+**Link to work:** [SpeechSynthesis](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis)
+
 ### Day 0: November 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
@@ -795,4 +803,5 @@ console.log(formattedDate); // Output: Depends on the browser's locale settings,
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
+
 
