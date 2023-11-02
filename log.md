@@ -778,7 +778,16 @@ console.log(formattedDate); // Output: Depends on the browser's locale settings,
 
 **Link to work:** [Video and Audio APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
 
-### Day 0: October 0, 2023 EXAMPLE
+### Day 86: November 1, 2023 
+
+**Today's Progress**: Finished custom video player, Web Animations API project, and started Web Speech API 
+
+**Thoughts:** A lot of mini projects involving different APIs.
+
+**Link to work:** [Using the Web Animations API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API)
+**Link to work:** [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
+
+### Day 0: November 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, and worked on canvas functionality for the app.
