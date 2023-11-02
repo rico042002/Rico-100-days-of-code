@@ -784,7 +784,7 @@ console.log(formattedDate); // Output: Depends on the browser's locale settings,
 
 **Thoughts:** A lot of mini projects involving different APIs.
 
-**Link to work:** [Using the Web Animations API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API)
+**Link to work:** [Using the Web Animations API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API)<br>
 **Link to work:** [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
 
 ### Day 0: November 0, 2023 EXAMPLE
