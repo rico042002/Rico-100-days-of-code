@@ -795,6 +795,15 @@ console.log(formattedDate); // Output: Depends on the browser's locale settings,
  
 **Link to work:** [SpeechSynthesis](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis)
 
+### Day 88: November 3, 2023 
+
+**Today's Progress**: Started Object-Oriented Programming section
+
+**Thoughts:** Today was mostly notes, learning about what OOP is and why it's necessary.
+
+**Link to work:** [Object-Oriented Programming in JavaScript](https://www.freecodecamp.org/news/object-oriented-programming-javascript/)<br>
+**Link to work:** [OOP: Working with Classes in JavaScript](https://faheemkhan97.hashnode.dev/oop-working-with-classes-in-javascript)
+
 ### Day 0: November 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
