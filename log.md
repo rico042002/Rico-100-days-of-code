@@ -804,6 +804,14 @@ console.log(formattedDate); // Output: Depends on the browser's locale settings,
 **Link to work:** [Object-Oriented Programming in JavaScript](https://www.freecodecamp.org/news/object-oriented-programming-javascript/)<br>
 **Link to work:** [OOP: Working with Classes in JavaScript](https://faheemkhan97.hashnode.dev/oop-working-with-classes-in-javascript)
 
+### Day 89: November 4, 2023 
+
+**Today's Progress**: Learned about the Key Principles of OOP and the 'this' keyword.
+
+**Thoughts:** Today's lesson was interesting, learned about this keyword and constructor functions. 
+
+**Link to work:** [Object-Oriented Programming in JavaScript for Beginners](https://www.freecodecamp.org/news/object-oriented-javascript-for-beginners/)
+
 ### Day 0: November 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
