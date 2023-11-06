@@ -812,6 +812,14 @@ console.log(formattedDate); // Output: Depends on the browser's locale settings,
 
 **Link to work:** [Object-Oriented Programming in JavaScript for Beginners](https://www.freecodecamp.org/news/object-oriented-javascript-for-beginners/)
 
+### Day 90: November 5, 2023 
+
+**Today's Progress**: Lessons today were over Prototypes, Inheritance, and .call
+
+**Thoughts:** Today was kind of slow but still learned some valuable information.
+
+**Link to work:** [JavaScript Prototypes and Inheritance – and Why They Say Everything in JS is an Object](https://www.freecodecamp.org/news/prototypes-and-inheritance-in-javascript/)
+
 ### Day 0: November 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
