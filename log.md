@@ -820,6 +820,51 @@ console.log(formattedDate); // Output: Depends on the browser's locale settings,
 
 **Link to work:** [JavaScript Prototypes and Inheritance – and Why They Say Everything in JS is an Object](https://www.freecodecamp.org/news/prototypes-and-inheritance-in-javascript/)
 
+### Day 91: November 6, 2023 
+
+**Today's Progress**: Solved the OOP challenge!
+
+**Thoughts:** I'm very happy I got this challenge on the first try! It was not easy and I got stumped and wanted to give up MULTIPLE TIMES but I stuck by it and worked on the problem the entire hour and didn't get the answer right until right when the timer went off for me to stop studying. Dealing with instances of 'this' combined with a constructor function with prototype variables was not an easy thing to grasp but I got it! Definitely, a proud moment that made me feel like I'm learning material that will stick!
+
+**Link to work:** 
+```javascript
+function Player(name, lvl = 1, points = 0) {
+  this.name = name;
+  this.lvl = lvl;
+  this.points = points;
+}
+
+Player.prototype.gainXP = function (num) {
+  if (num <= 10) {
+    this.points += num;
+  }
+  if (this.points >= 10) {
+    this.lvl++;
+    this.points -= 10;
+  }
+};
+
+Player.prototype.describe = function () {
+  console.log(
+    `${this.name} is a level ${this.lvl} with ${this.points} experience points`
+  );
+};
+
+let player1 = new Player('Bob');
+let player2 = new Player('Alice');
+
+player1.gainXP(5);
+player2.gainXP(7);
+player1.gainXP(3);
+player2.gainXP(2);
+player1.gainXP(8);
+player2.gainXP(4);
+
+player1.describe();
+player2.describe();
+
+```
+
 ### Day 0: November 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
