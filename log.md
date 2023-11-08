@@ -822,6 +822,7 @@ console.log(formattedDate); // Output: Depends on the browser's locale settings,
 
 ### Day 91: November 6, 2023 
 ![Week 13](https://github.com/rico042002/Rico-100-days-of-code/blob/master/img/week13.gif?raw=true)
+
 **Today's Progress**: Solved the OOP challenge!
 
 **Thoughts:** I'm very happy I got this challenge on the first try! It was not easy and I got stumped and wanted to give up MULTIPLE TIMES but I stuck by it and worked on the problem the entire hour and didn't get the answer right until right when the timer went off for me to stop studying. Dealing with instances of 'this' combined with a constructor function with prototype variables was not an easy thing to grasp but I got it! Definitely, a proud moment that made me feel like I'm learning material that will stick!
