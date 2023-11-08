@@ -821,7 +821,7 @@ console.log(formattedDate); // Output: Depends on the browser's locale settings,
 **Link to work:** [JavaScript Prototypes and Inheritance – and Why They Say Everything in JS is an Object](https://www.freecodecamp.org/news/prototypes-and-inheritance-in-javascript/)
 
 ### Day 91: November 6, 2023 
-
+![Week 13](https://github.com/rico042002/Rico-100-days-of-code/blob/master/img/week13.gif?raw=true)
 **Today's Progress**: Solved the OOP challenge!
 
 **Thoughts:** I'm very happy I got this challenge on the first try! It was not easy and I got stumped and wanted to give up MULTIPLE TIMES but I stuck by it and worked on the problem the entire hour and didn't get the answer right until right when the timer went off for me to stop studying. Dealing with instances of 'this' combined with a constructor function with prototype variables was not an easy thing to grasp but I got it! Definitely, a proud moment that made me feel like I'm learning material that will stick!
@@ -864,6 +864,14 @@ player1.describe();
 player2.describe();
 
 ```
+
+### Day 92: November 7, 2023 
+
+**Today's Progress**: Completed OOP - Constructors & Prototypes section. Started Classes, Getters & Setters
+
+**Thoughts:** Learned a lot of cool ways to handle objects and methods, even a new way to use polymorphism. 
+
+**Link to work:** [super](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super)
 
 ### Day 0: November 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
