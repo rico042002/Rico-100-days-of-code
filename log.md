@@ -874,6 +874,16 @@ player2.describe();
 
 **Link to work:** [super](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super)
 
+### Day 93: November 8, 2023 
+
+**Today's Progress**: Studied Static Methods and more on Classes, Getters/Setters, and definePropety().
+
+**Thoughts:** Getting a solid grasp on OOP paradigms. 
+
+**Link to work:** [Function.prototype.bind()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)<br>
+**Link to work:** [get](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/get)<br>
+**Link to work:** [set](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/set)
+
 ### Day 0: November 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
