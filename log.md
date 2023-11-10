@@ -884,6 +884,14 @@ player2.describe();
 **Link to work:** [get](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/get)<br>
 **Link to work:** [set](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/set)
 
+### Day 94: November 9, 2023 
+
+**Today's Progress**: Reviewed Private Properties, Class Fields, Flags & Descriptors
+
+**Thoughts:** Today's lesson went by slowly, mostly because of the gloomy weather and how shitty people have been to me lately. Still put in a solid hour and don't plan on missing any time soon. I actually want to increase the time for round 2 to two hours of code per day. 
+
+**Link to work:** [Object.getOwnPropertyDescriptor()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/getOwnPropertyDescriptor)
+
 ### Day 0: November 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
