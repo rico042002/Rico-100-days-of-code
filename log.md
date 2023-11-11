@@ -898,8 +898,8 @@ player2.describe();
 
 **Thoughts:** This is one of two of the last projects in the course and I will be finished. 36.5 hours and 265 lectures and I'm 70% finished! I have been having fun coding and I love that I've made it a daily habit. It will ultimately assist me at school and hopefully at work soon... 
 
-**Link to work:** [Object.isSealed()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/isSealed)
-**Link to work:** [Object.freeze()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/freeze)
+**Link to work:** [Object.isSealed()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/isSealed)<br>
+**Link to work:** [Object.freeze()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/freeze)<br>
 
 ### Day 0: November 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
