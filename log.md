@@ -512,7 +512,7 @@
 
 **Today's Progress**: Finished Events Section, learned about Event Bubbling, Event Delegation and Window Events
 
-**Thoughts:** Today wasn't too bad, seemed like time was going a little slower. After all, I have learned I still feel like I need to read a book on JavaScript and test myself with Edabit or a website like it. It's hard to find beginner-level algorithm challenges, and Code Wars just has user-made-up questions so they are hit-and-miss on quality. I'll probably do FreeCodeCamp since I finished the Responsive Web Design section in 2022, it's time for a new one!
+**Thoughts:** Today wasn't too bad, seemed like time was going a little slower. After all, I have learned I still feel like I need to read a book on JavaScript and test myself with Edabit or a website like it. It's hard to find beginner-level algorithm challenges, and Code Wars just has user-made questions so they are hit-and-miss on quality. I'll probably do FreeCodeCamp since I finished the Responsive Web Design section in 2022, it's time for a new one!
 
 **Link to work:** [Window](https://developer.mozilla.org/en-US/docs/Web/API/Window)
 
@@ -900,6 +900,14 @@ player2.describe();
 
 **Link to work:** [Object.isSealed()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/isSealed)<br>
 **Link to work:** [Object.freeze()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/freeze)<br>
+
+### Day 96: November 11, 2023 
+
+**Today's Progress**: Continued Calorie Tracker app project. 
+
+**Thoughts:** Today was slow but still fun. I learned more about classes, objects, and this keyword.
+
+**Link to work:** [class](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/class)
 
 ### Day 0: November 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
