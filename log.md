@@ -911,7 +911,7 @@ player2.describe();
 
 ### Day 97: November 12, 2023 
 
-**Today's Progress**: Continuing Calorie Tracker app, added (add/remove) functionality to DOM.
+**Today's Progress**: Continuing the Calorie Tracker app added (add/remove) functionality to DOM.
 
 **Thoughts:** Found out about a new method that helps with grabbing elements from a parent class called .closest()
 
