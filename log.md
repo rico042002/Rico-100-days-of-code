@@ -909,6 +909,14 @@ player2.describe();
 
 **Link to work:** [class](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/class)
 
+### Day 97: November 12, 2023 
+
+**Today's Progress**: Continuing Calorie Tracker app, added (add/remove) functionality to DOM.
+
+**Thoughts:** Found out about a new method that helps with grabbing elements from a parent class called .closest()
+
+**Link to work:** [Element: closest() method](https://developer.mozilla.org/en-US/docs/Web/API/Element/closest)
+
 ### Day 0: November 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
