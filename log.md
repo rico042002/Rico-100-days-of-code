@@ -917,6 +917,14 @@ player2.describe();
 
 **Link to work:** [Element: closest() method](https://developer.mozilla.org/en-US/docs/Web/API/Element/closest)
 
+### Day 98: November 13, 2023 
+
+**Today's Progress**: Added methods to keep data in local storage for the Calorie Tracker app. 
+
+**Thoughts:** Fun session today. The project is way bigger than I thought, with over 300 lines of JS.
+
+**Link to work:** [Unary plus (+)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Unary_plus)
+
 ### Day 0: November 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
