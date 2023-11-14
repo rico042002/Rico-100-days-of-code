@@ -918,6 +918,7 @@ player2.describe();
 **Link to work:** [Element: closest() method](https://developer.mozilla.org/en-US/docs/Web/API/Element/closest)
 
 ### Day 98: November 13, 2023 
+![Week 14](https://github.com/rico042002/Rico-100-days-of-code/blob/master/img/final.gif?raw=true)
 
 **Today's Progress**: Added methods to keep data in local storage for the Calorie Tracker app. 
 
