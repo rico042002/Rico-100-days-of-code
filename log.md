@@ -926,6 +926,14 @@ player2.describe();
 
 **Link to work:** [Unary plus (+)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Unary_plus)
 
+### Day 99: November 14, 2023
+
+**Today's Progress**: Finished Calorie Tracker App, started Modules & Tooling section.
+
+**Thoughts:** I can't believe I've come this far...After all my attempts to defeat this challenge, I'm finally here. It wasn't easy on my first attempts, but I learned from those rounds that you should stick to your habits when times get hard because those days matter the most. I learned a lot about local storage and how the D.R.Y. paradigm works for building an app. I will end up refactoring the app in Round 2 and finishing up this course and a few more I have in mind. Now that I see how short 100 Days really can seem when it's only an hour a day my second round should be 2 hour blocks of time. I can get better at coding, I just have more work ahead of me. 
+
+**Link to work:** [Calorie Tracker App](https://github.com/rico042002/tracalorie)
+
 ### Day 0: November 0, 2023 EXAMPLE
 ##### (delete me or comment me out)
 
@@ -934,5 +942,6 @@ player2.describe();
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
+
 
 
