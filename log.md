@@ -934,14 +934,15 @@ player2.describe();
 
 **Link to work:** [Calorie Tracker App](https://github.com/rico042002/tracalorie)
 
-### Day 0: November 0, 2023 EXAMPLE
-##### (delete me or comment me out)
+# Day 100: November 15, 2023 
+![final](https://github.com/rico042002/Rico-100-days-of-code/blob/master/img/week14.gif?raw=true)
 
-**Today's Progress**: Fixed CSS, and worked on canvas functionality for the app.
+**Today's Progress**: Learned about Modules, how to import and export them, and Node.JS
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I'm 75% done with the course. I've learned so much in this short 100-day span. This challenge was fun and helped me build a habit that will last a lifetime. Can't wait to see what the future has to hold. I plan on going round 2 after a short one-day break. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [JavaScript Modules – How to Create, Import, and Export a Module in JS](https://www.freecodecamp.org/news/javascript-modules/)<br>
+**Link to work:** [Tutorial: Node.js for Beginners](https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-beginners-tutorial)<br>
 
 
 
