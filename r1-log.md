@@ -1,4 +1,5 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+![100 Days Of Code](https://github.com/rico042002/Rico-100-days-of-code/blob/master/img/9c07a8fbde6190d19a1d136751e617d8.png?raw=true)
+# #100DaysOfCode Log - Round 2
 
 The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
