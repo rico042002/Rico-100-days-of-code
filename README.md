@@ -3,7 +3,8 @@
 ## Contents
 
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Round 1 Log](log.md)
+* [Round 2 Log - click here to see my progress](r1-log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
