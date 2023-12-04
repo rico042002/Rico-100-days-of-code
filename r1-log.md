@@ -6,7 +6,20 @@
 
 ## Log
 
-### R2D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+### R2D1: December 3, 2023 (Example 1)
+##### (delete me or comment me out)
 
-### R1D2
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+
+**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link to work:** [Calculator App](http://www.example.com)
+
+### R2D0: December 0, 2023 (Example 1)
+##### (delete me or comment me out)
+
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+
+**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link to work:** [Calculator App](http://www.example.com)
