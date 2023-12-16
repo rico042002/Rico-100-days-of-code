@@ -16,7 +16,7 @@
 
 
 ### R2D2: December 15, 2023
-![100 Days Of Code](https://github.com/rico042002/Rico-100-days-of-code/blob/master/img/r2.jpg?raw=true)
+<img width="400" height="400" src="https://github.com/rico042002/Rico-100-days-of-code/blob/master/img/r2.jpg?raw=true">
 
 **Today's Progress**: Learned about Module Bundlers and started working with WebPack to refactor the previous Track Calorie App. 
 
