@@ -23,9 +23,9 @@
 **Thoughts:** Today's lesson was loads of fun, finally learned what Babel does, and why module bundlers are needed. I've heard quite a few programmers mention dev-environment but this is my first time creating one. Tomorrow's lesson should be promising, I have also been reading JS.info in my spare time, not a requirement but as some free time reading that I'm not forcing myself to do but just to supplement my learning. 
 
 **Link to work:** [webpack-starter](https://github.com/bradtraversy/webpack-starter)<br>
-[Learn webpack to simplify and speed up your website](https://www.freecodecamp.org/news/webpack-course/)<br>
-[FileSystemDirectoryHandle: resolve() method](https://developer.mozilla.org/en-US/docs/Web/API/FileSystemDirectoryHandle/resolve)<br>
-[Webpack Documentation](https://webpack.js.org/concepts/)
+- [Learn webpack to simplify and speed up your website](https://www.freecodecamp.org/news/webpack-course/)<br>
+- [FileSystemDirectoryHandle: resolve() method](https://developer.mozilla.org/en-US/docs/Web/API/FileSystemDirectoryHandle/resolve)<br>
+- [Webpack Documentation](https://webpack.js.org/concepts/)
 
 
 ### R2D0: December 0, 2023 (Example 1)
