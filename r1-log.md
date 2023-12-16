@@ -16,13 +16,16 @@
 
 
 ### R2D2: December 15, 2023
+![100 Days Of Code](https://github.com/rico042002/Rico-100-days-of-code/blob/master/img/r2.jpg?raw=true)
 
+**Today's Progress**: Learned about Module Bundlers and started working with WebPack to refactor the previous Track Calorie App. 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** Today's lesson was loads of fun, finally learned what Babel does, and why module bundlers are needed. I've heard quite a few programmers mention dev-environment but this is my first time creating one. Tomorrow's lesson should be promising, I have also been reading JS.info in my spare time, not a requirement but as some free time reading that I'm not forcing myself to do but just to supplement my learning. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [webpack-starter](https://github.com/bradtraversy/webpack-starter)<br>
+[Learn webpack to simplify and speed up your website](https://www.freecodecamp.org/news/webpack-course/)<br>
+[FileSystemDirectoryHandle: resolve() method](https://developer.mozilla.org/en-US/docs/Web/API/FileSystemDirectoryHandle/resolve)<br>
+[Webpack Documentation](https://webpack.js.org/concepts/)
 
 
 ### R2D0: December 0, 2023 (Example 1)
