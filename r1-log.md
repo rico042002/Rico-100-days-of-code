@@ -28,6 +28,15 @@
 - [Webpack Documentation](https://webpack.js.org/concepts/)
 
 
+### R2D3: December 17, 2023 
+
+**Today's Progress**: Setup a dev-environment and learned about Webpack Plugins. 
+
+**Thoughts:** Today's lesson seemed long, ran into a few typo issues but still finished. Spent yesterday working and it got late so I forgot to code basically. I'm going to try to start coding more during the day so I don't forget or try to squeeze it in at the end of the day.
+
+**Link to work:** [HtmlWebpackPlugin](https://webpack.js.org/plugins/html-webpack-plugin/)
+
+
 ### R2D0: December 0, 2023 (Example 1)
 ##### (delete me or comment me out)
 
