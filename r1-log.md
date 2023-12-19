@@ -30,11 +30,20 @@
 
 ### R2D3: December 17, 2023 
 
-**Today's Progress**: Setup a dev-environment and learned about Webpack Plugins. 
+**Today's Progress**: Set up a dev-environment and learned about Webpack Plugins. 
 
-**Thoughts:** Today's lesson seemed long, ran into a few typo issues but still finished. Spent yesterday working and it got late so I forgot to code basically. I'm going to try to start coding more during the day so I don't forget or try to squeeze it in at the end of the day.
+**Thoughts:** Today's lesson seemed long, ran into a few typo issues but still finished. Spent yesterday working and it got late so I forgot to code. I'm going to try to start coding more during the day so I don't forget or try to squeeze it in at the end of the day.
 
 **Link to work:** [HtmlWebpackPlugin](https://webpack.js.org/plugins/html-webpack-plugin/)
+
+
+### R2D4: December 18, 2023 
+
+**Today's Progress**: Refactoring Calorie Tracking App, added CSS-Extract plugin to Webpack 
+
+**Thoughts:** Started refactoring code for the track calorie app, separated the long JS file into separate smaller ones. Almost done with the section of the course. 
+
+**Link to work:** [MiniCssExtractPlugin](https://webpack.js.org/plugins/mini-css-extract-plugin/)
 
 
 ### R2D0: December 0, 2023 (Example 1)
