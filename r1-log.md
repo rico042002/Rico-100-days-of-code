@@ -46,6 +46,15 @@
 **Link to work:** [MiniCssExtractPlugin](https://webpack.js.org/plugins/mini-css-extract-plugin/)
 
 
+### R2D5: December 19, 2023
+
+**Today's Progress**: Completed refactoring Tracalorie App with Webpack, deployed to Netlify. Finished the section, and learned about Symbols & Iterators
+
+**Thoughts:** Had to do some late-night coding because I left my laptop at home today, still managed to get my hour in at the last minute. It went by slow as hell but I managed to truck through it 😆
+
+**Link to work:** [Tracalorie App](https://lighthearted-brigadeiros-696e4c.netlify.app/)[![Netlify Status](https://api.netlify.com/api/v1/badges/e7b30714-1f8b-43b9-a81c-369f50c420c4/deploy-status)](https://app.netlify.com/sites/lighthearted-brigadeiros-696e4c/deploys)
+
+
 ### R2D0: December 0, 2023 (Example 1)
 ##### (delete me or comment me out)
 
@@ -54,3 +63,4 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
+
