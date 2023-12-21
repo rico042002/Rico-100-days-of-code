@@ -55,6 +55,15 @@
 **Link to work:** [Tracalorie App](https://lighthearted-brigadeiros-696e4c.netlify.app/)[![Netlify Status](https://api.netlify.com/api/v1/badges/e7b30714-1f8b-43b9-a81c-369f50c420c4/deploy-status)](https://app.netlify.com/sites/lighthearted-brigadeiros-696e4c/deploys)
 
 
+### R2D6: December 20, 2023 
+
+**Today's Progress**: Learned about Iterators, Generators, Sets and Maps.
+
+**Thoughts:** Today's lesson was fun and included a mini project to help explain generator functions better. I think I need to increase my coding time to 2 hours. For some reason, the one hour I usually do feels like forever now and I don't know why...Maybe if I overdo it like I used to for a little while I would appreciate the 1hr coding sessions again LoL. 
+
+**Link to work:** [How to Use Set and Map in JavaScript](https://www.freecodecamp.org/news/set-and-map-in-javascript/)
+
+
 ### R2D0: December 0, 2023 (Example 1)
 ##### (delete me or comment me out)
 
@@ -63,4 +72,3 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
-
